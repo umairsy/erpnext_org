@@ -1,0 +1,66 @@
+{% block header %}
+<h2>Download Virtual Image<h2>
+{% endblock %}
+
+{% block content %}
+<p class="lead">Download a pre-installed Virtual Box Image</p>
+
+<h2>How to Install</h2>
+
+<p>You will need Oracle's Virtual Box to use the image:</p>
+<ul>
+    <li><a href="https://www.virtualbox.org/">https://www.virtualbox.org/</a>
+
+    </li>
+</ul>
+<p>Import the .ova file into VirtualBox. Though the default settings of the appliance should be good enough for most users, you may need to change them if you face performace issues.</p>
+<p>The virtual appliance uses Debian GNU/Linux 7.</p>
+<p>The credentials of the virtual image are:</p>
+<ul>
+    <li>username: erpnext</li>
+    <li>password: erpnext</li>
+    <li>mysql root password: erpnext</li>
+    <li>erpnext database name: erpnext</li>
+    <li>erpnext database password: erpnext</li>
+</ul>
+<p>Once the Virtual Machine boots, use your HOST operating system's browser and go to:</p>
+<ul>
+    <li>http://localhost:8000</li>
+</ul>
+<p>and login using:</p>
+<ul>
+    <li>user: Administrator</li>
+    <li>password: admin</li>
+</ul>
+
+<h2>Download Image</h2>
+
+<p><a href="https://erpnext.com/downloads/erpnext-1113.ova">https://erpnext.com/downloads/erpnext-1113.ova</a> (734 MB, MD5 Checksum - 93cee80a8c105708d1946bcdf9b64a15)</p>
+<p>Created on 22nd November, 2013.</p>
+
+<h2>Give us a Shout!</h2>
+
+<div class="well">
+    <p>Hey ERPNext,</p>
+    <p>Just want to let you know that I downloaded the Virtual Image.</p>
+    <p>Send me your updates at
+        <input name="download-email" placeholder="My Email Id" type="text">.</p>
+    <p>Thanks,
+        <br>
+        <input name="download-user" placeholder="My Name" type="text">
+    </p>
+    <button id="download-shout" class="btn btn-primary">Shout!</button>
+    <div id="download-alert" class="alert" style="display: none;"></div>
+</div>
+<hr>
+<p>Having trouble with the Virtual Image? Raise your issues at  <a href="https://groups.google.com/group/erpnext-developer-forum" target="_blank"> https://groups.google.com/group/erpnext-developer-forum</a>
+</p>
+<p>Or if you have a functional issue, raise it at  <a href="https://groups.google.com/group/erpnext-user-forum" target="_blank"> https://groups.google.com/group/erpnext-user-forum</a>
+</p>
+<p>Please consider donating - <a href="http://erpnext.com/donate">http://erpnext.com/donate</a>
+</p>
+<hr>
+<h3>Manual Install?</h3>
+<p>Go to the <a href="open-source.html">developers page</a>
+</p>
+{% endblock %}

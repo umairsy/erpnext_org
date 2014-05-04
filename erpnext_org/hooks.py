@@ -11,3 +11,5 @@ app_version = "0.0.1"
 home_page = "home"
 
 web_include_css = "/assets/erpnext_org/css/erpnext.css"
+
+fixtures = ["Website Settings"]
