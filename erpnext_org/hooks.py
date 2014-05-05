@@ -8,6 +8,8 @@ app_email = "info@frappe.io"
 app_url = "http://erpnext.org"
 app_version = "0.0.1"
 
+hide_in_installer = True
+
 home_page = "home"
 
 web_include_css = "/assets/erpnext_org/css/erpnext.css"
