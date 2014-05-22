@@ -1,0 +1,6 @@
+supplier-type
+supplier-master
+material-request
+supplier-quotation
+purchase-order
+purchase-taxes
