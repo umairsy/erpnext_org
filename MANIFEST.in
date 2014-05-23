@@ -15,4 +15,5 @@ recursive-include erpnext_org *.png
 recursive-include erpnext_org *.py
 recursive-include erpnext_org *.svg
 recursive-include erpnext_org *.txt
+recursive-include erpnext_org/public *
 recursive-exclude erpnext_org *.pyc
