@@ -27,4 +27,4 @@ __Figure 3: Item Rate for Jute Pen Stand-1__
 
 After creating a Price List and Item prices, it is time to create a Sales Order.
 
-Next: [Sales Order](/apps/erpnext/guide-books/make-to-order/sales-order)
+Next: [Sales Order](/user-guide/guide-books/make-to-order/sales-order)

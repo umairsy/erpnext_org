@@ -1,9 +1,5 @@
 # Retail
 
-#### Apps: [ERPNext](apps/erpnext) and [Shopping Cart](apps/shopping-cart)
-
----
-
 #### Introduction
 
 A small or midsize retail business can have an advantage over its competitors, if it adopts an ERP to manage billing, accounting and inventory.
@@ -13,15 +9,15 @@ In the retail sector, the biggest challenge is to minimize inventory and also en
 ERPNext is ideal for a retail business which is looking for an easy interface, a rich feature set, customizability and an attractive price.
 
 1. **Point of Sale Serve them fast:** Create invoices with a few click barcode scanner. Easily Edit Row Items. A mistake is easy to correct. Change quantity, remove an Item, or cancel the invoice altogether without getting flustered.
-1. **Print without constraints:** Be it dot-matrix, inkjet, laser or thermal printer, you can print on any kind of printer, which your terminal supports. You can also customise the look of the print. 
+1. **Print without constraints:** Be it dot-matrix, inkjet, laser or thermal printer, you can print on any kind of printer, which your terminal supports. You can also customise the look of the print.
 1. **Automate Accounting and Inventory:** Accounting entries for Income, Payment and Cost of Goods Sold are automatically created. The available quantity gets reduced from the warehouse and a material request gets raised if the available quantity goes below a configured level.
-1. **Handle complex tax structures:** ERPNext can handle simple as well as complex tax structures and you can define as many taxes as required. You can also configure different tax rates for different items. 
+1. **Handle complex tax structures:** ERPNext can handle simple as well as complex tax structures and you can define as many taxes as required. You can also configure different tax rates for different items.
 
-### Merchandise Management 
+### Merchandise Management
 
 1. **Categorize the Merchandise:** The Item form in ERPNext, has options to group the merchandises in categories. It also enables you to categorise an Item under multiple groups for the web catalogue.
 1. **Manage Vendor Lists:** ERPNext captures information on different vendors and their contact details. Communication history with vendors is recorded, enabling you to track discussions.
-1. **Maintain different Price Lists:** ERPNext has provision to store multiple Price lists based on currency, location, customers and suppliers. 
+1. **Maintain different Price Lists:** ERPNext has provision to store multiple Price lists based on currency, location, customers and suppliers.
 1. **Configure Taxes and Tax Templates:** Different types of taxes like VAT, CENVAT, Purchase Tax, Sales Tax, Shipping Costs etc. can be configured and attached to a purchase or a sale.
 1. **Bundle Products to track inventory:**  In ERPNext, you can bundle all the items that you wish to pack along with your main product. Tracking products with attachments is easily traceable due to grouping of products.
 1. **Allows Sales/Purchase Return:**: Goods sold being returned is quite a common practice in Business. They could be returned by the customer on quality issues, non-delivery on agreed date, or any other reason. ERPNext allows this transaction for ease of accounting.
@@ -48,7 +44,7 @@ In certain product categories, the online shopping world is decreasing retail-st
 
 1. **Create a ‘Do-It-Yourself’ Website:** Easily create your website without professional help and keep it updated without a sweat. (This website is made using ERPNext!)
 1. **Build a Blogging Platform:** Share your thoughts about your business and keep your customers and readers updated of what you are up to. Engage them in conversations via comments.
-1. **Create online shopping portal:** Arrange products by categories, provide detailed specifications, and display prices, shipping costs and taxes based on location. 
+1. **Create online shopping portal:** Arrange products by categories, provide detailed specifications, and display prices, shipping costs and taxes based on location.
 1. **Provide a Customer Portal:** Empower your customers to track their orders and shipments, and enable them to follow up on their concerns through the Support Ticket system.
 1. **Get A Ready-To-Use Contact-Us Form:** This feature of ERPNext makes it easy for new leads to contact you without embedding third-party forms.
 1. **Use Social Media Marketing Tools:** Google Analytics and Social Buttons in ERPNext helps you to track website traffic, demographics, most read pages and real-time statistics with built-in Google Analytics integration. Add Google Plus, Twitter, Facebook and LinkedIn sharing with a click of a button.

@@ -4,12 +4,12 @@
 
 The Production Planning Tool will generate:
 
-1. **Production Orders** for selected Items 
+1. **Production Orders** for selected Items
 2. **Material Requests** for Items whose Projected Quantity is likely to fall below zero.
 
 > Manufacturing > Production Planning Tool
 
-The Production Planning Tool enables you to complete the production cycle in a fast and efficient manner. From procuring materials, producing goods, to updating stocks - everything is done by clicking on buttons which appear after every transaction. The tool is user friendly and does not require you to go back and forth into the system to make and log different forms. Everything is intuitive and can be performed step by step. 
+The Production Planning Tool enables you to complete the production cycle in a fast and efficient manner. From procuring materials, producing goods, to updating stocks - everything is done by clicking on buttons which appear after every transaction. The tool is user friendly and does not require you to go back and forth into the system to make and log different forms. Everything is intuitive and can be performed step by step.
 
 You can pull Sales Orders directly by clicking on a button. Select the Sales Orders you wish to process and click on another button to get Items for that Sales Order. Mention Item details and click on the button ‘Make Production Orders’. It is that simple! After this you can click on another button and create Material Requests required to complete this Production Order. The whole process is fuss free and easy.
 
@@ -18,7 +18,7 @@ You can pull Sales Orders directly by clicking on a button. Select the Sales Ord
 
 #### Step 1: Pull Sales Order
 
-Sales Order is an order issued by a business to a Customer. 
+Sales Order is an order issued by a business to a Customer.
 
 __Figure 1: Sales Order__
 
@@ -34,7 +34,7 @@ __Figure 2: Pulled Items__
 
 #### Step 3: Create Production Order
 
-Production Order is an order to produce a specific quantity of material within a predefined timeframe. It contains all of the relevant information required for the execution of the process, including how much should be manufactured when. 
+Production Order is an order to produce a specific quantity of material within a predefined timeframe. It contains all of the relevant information required for the execution of the process, including how much should be manufactured when.
 
 __Figure 3: Production Order Created__
 
@@ -51,7 +51,7 @@ This request is created by clicking on the box ‘Create Material Request’
 ![Material Request](/assets/erpnext_org/images/erpnext/m-t-o-ppt-material-request-jps-1.png)
 
 
-Click on the highlighted Material Request number. The click will open into a Material Request Form. 
+Click on the highlighted Material Request number. The click will open into a Material Request Form.
 
 
 #### Quick Overview of PPT-Production Planning Tool
@@ -64,6 +64,6 @@ Click on the highlighted Material Request number. The click will open into a Mat
 
 <i class="icon-lightbulb text-warning" style="font-size: 200%"></i> All the buttons on this tool work ! If you have entered the data properly, the tool will work flawlessly.
 
-After  production planning, it is time to check the Production Order, Transfer Raw Materials and Update Finished Goods. However, before proceeding to manufacture, you are required to complete the Buying process by completing the Purchase Orders and Purchase Receipts. 
+After  production planning, it is time to check the Production Order, Transfer Raw Materials and Update Finished Goods. However, before proceeding to manufacture, you are required to complete the Buying process by completing the Purchase Orders and Purchase Receipts.
 
-Next: [Purchase Order & Purchase Receipt](apps/erpnext/guide-books/make-to-order/purchase-order)
+Next: [Purchase Order & Purchase Receipt](/user-guide/guide-books/make-to-order/purchase-order)

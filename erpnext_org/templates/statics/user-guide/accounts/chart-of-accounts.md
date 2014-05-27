@@ -26,8 +26,7 @@ of a financial statement is given below:
 
 To edit your Chart of Accounts in ERPNext go to:
 
->  
-[Accounts ](accounts)> Chart of Accounts
+>  Accounts > Chart of Accounts
 
 Chart of Accounts is a tree view of the names of the Accounts (Ledgers and
 Groups) that a Company requires to manage its books of accounts. ERPNext sets

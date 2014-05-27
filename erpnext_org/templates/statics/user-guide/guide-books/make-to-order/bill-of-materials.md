@@ -27,7 +27,7 @@ __Note:__ You can enter the rates manually by adjusting as per the UOM. Since Tr
 
 Save the BOM and submit it. Do not forget to submit the BOM. This is an important step. The pricing is fixed only after the BOM is submitted. After submitting, you can create a Price List and Item Price into the system.
 
- Next: [Price List](/apps/erpnext/guide-books/make-to-order/price-list)
+ Next: [Price List](/user-guide/guide-books/make-to-order/price-list)
 
 
  References:

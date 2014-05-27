@@ -49,7 +49,7 @@ __Figure 4: Payment Entry__
 
 You can see how much profit you made on this order by going to Gross Profit Report.
 
-Next: [Gross Profit Report](/apps/erpnext/guide-books/engineer-to-order/gross-profit-report)
+Next: [Gross Profit Report](/user-guide/guide-books/engineer-to-order/gross-profit-report)
 
 
 ---

@@ -25,7 +25,7 @@ In the Material Request form,
 
   * Fill in the Items you want and their quantities.
 
-  * If your Items are inventory items, you must also mention the Warehouse where you expect these Items to be delivered. This helps to keep track of the [Projected Quantity](/user-guide/stock-inventory/projected-quantity) for this Item.
+  * If your Items are inventory items, you must also mention the Warehouse where you expect these Items to be delivered. This helps to keep track of the [Projected Quantity](/user-guide/stock/projected-quantity) for this Item.
 
   * You can optionally add the Terms, using the Terms and Conditions master and also the reason.
 

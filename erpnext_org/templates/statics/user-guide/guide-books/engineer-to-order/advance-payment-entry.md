@@ -50,7 +50,7 @@ __Figure 4: Advance pulled from JV__
 
 Save and submit the Sales Invoice. You can start making the Production Order and raise Material Requests for manufacturing this product via the Production Planning Tool.
 
-Next: [Production Planning Tool](/apps/erpnext/guide-books/engineer-to-order/production-planning-tool)
+Next: [Production Planning Tool](/user-guide/guide-books/engineer-to-order/production-planning-tool)
 
 ---
 

@@ -47,7 +47,7 @@ Advance payment is seen as an order confirmation. Based on the confirmation, cre
 
 
 
-Next: [Sales Order](/apps/erpnext/guide-books/engineer-to-order/sales-order)
+Next: [Sales Order](/user-guide/guide-books/engineer-to-order/sales-order)
 
 
 ---

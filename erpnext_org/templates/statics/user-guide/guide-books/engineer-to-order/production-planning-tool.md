@@ -68,4 +68,4 @@ After  production planning, it is time to check the Production Order, Transfer R
 
 
 
-Next: [Buying](/apps/erpnext/guide-books/engineer-to-order/material-request)
+Next: [Buying](/user-guide/guide-books/engineer-to-order/material-request)

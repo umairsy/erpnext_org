@@ -13,7 +13,7 @@ To use the Production Planning Tool, go to:
 
 ![Material Requisition Planning](assets/erpnext_org/images/erpnext/mrp.png)
 
-  
+
 
 #### Step 1: Select and get Sales Order
 
@@ -25,7 +25,7 @@ Click on Get Sales Order to generate a list.
 
 ![Production Planning Tool](assets/erpnext_org/images/erpnext/mrp-1.1.png)
 
-  
+
 
 #### Step 2: Get Item from Sales Orders.
 
@@ -33,13 +33,13 @@ You can add/remove or change quantity of these Items.
 
 ![Production Planning Tool](assets/erpnext_org/images/erpnext/mrp-2.png)
 
-  
+
 
 #### Step 3: Create Production Orders
 
 ![Production Planning Tool](assets/erpnext_org/images/erpnext/mrp-3.png)
 
-  
+
 
 #### Step 4: Create Material Request
 
@@ -47,7 +47,7 @@ Create Material Request for Items with projected shortfall.
 
 ![Production Planning Tool](assets/erpnext_org/images/erpnext/mrp-4.png)
 
-  
+
 
 The Production Planning Tool is used in two stages:
 

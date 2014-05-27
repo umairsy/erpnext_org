@@ -58,7 +58,7 @@ __Figure 4: Make Payment Entry__
 Save and submit the document. You can go to the Reports section and check your Warehouse-Wise Stock Balance Report.
 
 
-Next: [Report](/apps/erpnext/guide-books/make-to-stock/reports)
+Next: [Report](/user-guide/guide-books/make-to-stock/reports)
 
 
 ---

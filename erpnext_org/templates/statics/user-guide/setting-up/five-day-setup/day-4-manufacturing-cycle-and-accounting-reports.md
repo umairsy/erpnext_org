@@ -50,9 +50,9 @@ To go to Stock Entry, click on the Stock Icon and go to Stock Entry.
 
 ![Stock Entry](assets/erpnext_org/images/erpnext/fourthdaysetup-stock.png)
 
-> To understand Material Issue, visit [Material Issue.](/user-guide/stock-inventory/material-issue)
+> To understand Material Issue, visit [Material Issue.](/user-guide/stock/material-issue)
 
-> To understand Sales Return, visit [Sales Return.](/user-guide/stock-inventory/sales-return)
+> To understand Sales Return, visit [Sales Return.](/user-guide/stock/sales-return)
 
 ### Delivery Note
 
@@ -63,7 +63,7 @@ Note.
 
 ![Delivery Note](assets/erpnext_org/images/erpnext/fourthdaysetup-delivery-note.png)
 
-> To understand Delivery Note in detail, visit [Delivery Note](/user-guide/stock-inventory/delivery-note)
+> To understand Delivery Note in detail, visit [Delivery Note](/user-guide/stock/delivery-note)
 
 ### Warehouse
 
@@ -73,7 +73,7 @@ Note.
 
 ![Warehouse](assets/erpnext_org/images/erpnext/fourthdaysetup-warehouse.png)
 
-> To understand Warehouse in detail, visit [Warehouse](/user-guide/stock-inventory/warehouse)
+> To understand Warehouse in detail, visit [Warehouse](/user-guide/stock/warehouse)
 
 ### Accounts
 

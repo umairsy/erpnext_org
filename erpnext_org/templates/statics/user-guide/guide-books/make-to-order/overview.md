@@ -15,4 +15,4 @@
 1. Create and submit **Sales Invoice** to complete billing and payment.
 1. Review **Stock Balance Report** and **Gross Profit Report**.
 
-Next: [Setting Up](/apps/erpnext/guide-books/make-to-order/setting-up)
+Next: [Setting Up](/user-guide/guide-books/make-to-order/setting-up)

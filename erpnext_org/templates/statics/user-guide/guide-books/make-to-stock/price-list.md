@@ -30,4 +30,4 @@ After creating a Price List and Item prices, it is time to perform planning and 
 
 
 
-Next: [Planning and Forecasting](/apps/erpnext/guide-books/make-to-stock/planning-and-forecasting)
+Next: [Planning and Forecasting](/user-guide/guide-books/make-to-stock/planning-and-forecasting)

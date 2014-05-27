@@ -46,7 +46,7 @@ __Figure 7: BOM for Child Bed Baby__
 Save and submit all BOM's. Based on the client feedback give a proposal to the client in the form of Quotations. You may have to propose different quotes till the client agrees.
 
 
-Next: [Proposal Phase](/apps/erpnext/guide-books/engineer-to-order/proposal-phase)
+Next: [Proposal Phase](/user-guide/guide-books/engineer-to-order/proposal-phase)
 
 
 ---

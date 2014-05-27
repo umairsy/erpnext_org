@@ -9,4 +9,4 @@ Since they have established their brand, they are planning to sell aggressively 
 Create Material Requests and Production Order using the Production Planning Tool.
 
 
-Next: [Production Planning Tool](/apps/erpnext/guide-books/make-to-stock/production-planning-tool)
+Next: [Production Planning Tool](/user-guide/guide-books/make-to-stock/production-planning-tool)

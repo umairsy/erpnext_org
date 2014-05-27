@@ -64,7 +64,7 @@ Material Request > Purchase Order > Purchase Receipt > Purchase Invoice > Journa
 In a similar fashion, go to each and every Material Request created for this order and complete the cycle. Once Buying is done you can proceed to manufacture.
 
 
-Next : [Manufacturing](/apps/erpnext/guide-books/engineer-to-order/stock-entry)
+Next : [Manufacturing](/user-guide/guide-books/engineer-to-order/stock-entry)
 
 
 ---

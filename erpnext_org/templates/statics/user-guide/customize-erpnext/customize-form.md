@@ -24,10 +24,6 @@ default Print Format.
 
 ![Customize Forms](assets/erpnext_org/images/erpnext/customize-form-2.png)
 
-  
-
-To understand field definitions, visit [Doctype-Fields](doctype-fields)
-
 > Though we want you to do everything you can to customize your ERP based on
 your business needs, we recommend that you do not make “wild” changes to the
 forms. This is because, these changes may affect certain operations and may

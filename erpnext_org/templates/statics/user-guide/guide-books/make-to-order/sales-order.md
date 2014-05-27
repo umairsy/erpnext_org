@@ -18,7 +18,7 @@ Save and submit the Sales Order. After creating the Sales Order the process to m
 
 Once the Sales Order is ready, we can proceed to the Production Planning Tool. This tool allows to pull a list of Items and Sales Orders, and generate a Production Order along with Material Requests. 
 
-Next: [Production Planning Tool](/apps/erpnext/guide-books/make-to-order/production-planning-tool)
+Next: [Production Planning Tool](/user-guide/guide-books/make-to-order/production-planning-tool)
 
 ---
 References

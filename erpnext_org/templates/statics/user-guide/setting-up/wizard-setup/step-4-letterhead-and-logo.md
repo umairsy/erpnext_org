@@ -29,4 +29,4 @@ A logo is a graphic mark or emblem commonly used by commercial enterprises, orga
 To attach a logo in the setup wizard click on the box “Attach Logo”. Select your picture and enter.
 
 
-To set-up logo later read [Setting up your website](/user-guide/setting-up-your-website-webshop)
+To set-up logo later read [Setting up your website](/user-guide/website)

@@ -52,4 +52,4 @@ __Figure 3: Update finished goods__
 Save and submit the Stock Entry. To see if everything has occurred as planned, go back to the Production Order. The Production Order will show that it is 100% complete. The green line will be complete. After manufacturing the product is delivered and billed.
 
 
-Next: [Billing Customer](/apps/erpnext/guide-books/engineer-to-order/customer-billing)
+Next: [Billing Customer](/user-guide/guide-books/engineer-to-order/customer-billing)

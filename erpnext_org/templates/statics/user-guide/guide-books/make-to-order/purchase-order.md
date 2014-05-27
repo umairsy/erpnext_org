@@ -45,7 +45,7 @@ In this manner create Purchase Orders and Purchase Receipts for all the Material
 
 After completing the Buying process by making Purchase Order and Purchase Receipt, proceed to manufacture the product.
 
-Next: [Manufacturing](/apps/erpnext/guide-books/make-to-order/manufacturing)
+Next: [Manufacturing](/user-guide/guide-books/make-to-order/manufacturing)
 
 
 ---

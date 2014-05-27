@@ -50,7 +50,7 @@ __Figure 3: Payment Entry__
 
 Save and submit the Payment Entry. After submitting, you can check the Gross Profit Report, and review your profits. You can also check your Stock Balance Report.
 
-Next: [Reports](/apps/erpnext/guide-books/make-to-order/reports)
+Next: [Reports](/user-guide/guide-books/make-to-order/reports)
 
 ---
 

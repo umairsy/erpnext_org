@@ -18,7 +18,7 @@ After setting up the Customer name in the system, it is time to create an Item b
 
 ### Item
 
-An [Item](/user-guide/stock-inventory/item-master) is your company's product or a service. The term Item is applicable to your core products as well as your raw materials. It can be a product or service that you buy/sell from your Customers/Suppliers. ERPNext allows you to manage all sorts of Items like raw-materials, sub-assemblies, finished goods, Item variants and service Items.
+An [Item](/user-guide/stock/item-master) is your company's product or a service. The term Item is applicable to your core products as well as your raw materials. It can be a product or service that you buy/sell from your Customers/Suppliers. ERPNext allows you to manage all sorts of Items like raw-materials, sub-assemblies, finished goods, Item variants and service Items.
 
 > Stock > Item > New Item
 
@@ -88,7 +88,7 @@ __Figure 6: Supplier__
 
 Make the Bill of Materials based on your design document and product requirements specified by the client.
 
-Next: [Bill of Material](/apps/erpnext/guide-books/engineer-to-order/bill-of-material)
+Next: [Bill of Material](/user-guide/guide-books/engineer-to-order/bill-of-material)
 
 ---
 

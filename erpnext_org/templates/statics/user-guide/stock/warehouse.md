@@ -31,10 +31,6 @@ transactions. Also, the available quantity (actual qty, reserved qty, ordered
 qty etc) of all items in the duplicate warehouse will be transferred to the
 correct warehouse. Once merging is done, delete the duplicate Warehouse.
 
-To understand the merge process in detail  visit [Merging Documents](/user-guide/faq/merging-documents).
-
-  
-
 > Note: ERPNext system maintains stock balance for every distinct combination
 of Item and Warehouse. Thus you can get stock balance for any specific Item in
 a particular Warehouse on any particular date.

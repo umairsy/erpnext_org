@@ -20,4 +20,4 @@
 
 To begin the order cylce create an Item, Lead/Customer, Supplier and Warehouse.
 
-Next: [Setting Up](/apps/erpnext/guide-books/engineer-to-order/set-up)
+Next: [Setting Up](/user-guide/guide-books/engineer-to-order/set-up)

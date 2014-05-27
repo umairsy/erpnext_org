@@ -23,7 +23,7 @@ __Figure 2: Create BOM Materials__
 
 Save and submit the BOM. Submitting the BOM is an important step. The pricing is fixed only after the BOM is submitted. After submitting, you can create a Price List and Item Price into the system.
 
-Next: [Price List](/apps/erpnext/guide-books/make-to-stock/price-list)
+Next: [Price List](/user-guide/guide-books/make-to-stock/price-list)
 
 
 

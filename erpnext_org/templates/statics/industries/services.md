@@ -1,9 +1,5 @@
 # Service Providers
 
-#### Apps: [ERPNext](apps/erpnext) and [Shopping Cart](apps/shopping-cart)
-
----
-
 ### Introduction
 
 Service Providers are using a collection of multiple standalone programs to manage their different business needs. An accounting package to manage accounts, a HR module to manage leaves, transfers, attendance, payroll etc; a  web designer to  design and  update  website and a CRM application to manage customers and sales.
@@ -37,7 +33,7 @@ You can maintain your book of accounts with journal entries along with Sales and
 
 #### Taxes
 
-You can configure different types of taxes and pull them directly in to your invoices. Different types of taxes like VAT, CENVAT, Purchase Tax, Sales Tax, Shipping Costs etc. can be configured and stored in master files for quick use later. 
+You can configure different types of taxes and pull them directly in to your invoices. Different types of taxes like VAT, CENVAT, Purchase Tax, Sales Tax, Shipping Costs etc. can be configured and stored in master files for quick use later.
 
 ![Taxes](/assets/erpnext_org/images/erpnext/taxes-master-sp.png)
 

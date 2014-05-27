@@ -30,7 +30,7 @@ Inventory is tracked in Warehouses not Workstations.
 lower most child node. This table is automatically updated if any of the BOMs
 of the sub-Items are updated.
 
-To see an example of a Bill of Material in detail visit [](apps/erpnext/guides/make-to-order/bill-of-materials)
+To see an example of a Bill of Material in detail visit [](/user-guide/guide-books/make-to-order/bill-of-materials)
 
 > Note : In order to generate a Bill of Materials it is necessary that the Item is checked for "Allow Bill of Materials". The Item should also say 'Yes' to "Allow Production Order" on the Item form.
 

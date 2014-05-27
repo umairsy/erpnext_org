@@ -51,4 +51,4 @@ __Figure 3: Update finished goods__
 
 Save and submit the document. To see if everything has occurred as planned, go back to the Production Order. The Production Order will show that it is 100% complete. The green line will be complete. After manufacturing the product is delivered and billed.
 
-Next: [Shipping and Billing](/apps/erpnext/guide-books/make-to-order/shipping-and-billing)
+Next: [Shipping and Billing](/user-guide/guide-books/make-to-order/shipping-and-billing)

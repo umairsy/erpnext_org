@@ -39,7 +39,7 @@ The click will take you to the Master-Company file. Now enter your default entry
 After completing the Purchase cycle, you can start manufacturing the Item.
 
 
-Next: [Manufacturing](/apps/erpnext/guide-books/make-to-stock/manufacturing)
+Next: [Manufacturing](/user-guide/guide-books/make-to-stock/manufacturing)
 
 
 References

@@ -22,7 +22,7 @@ Module wise explanation of all the various ERPNext modules from Accounting to Hu
 
 This section covers a brief overview of how to make your website with ERPNext
 
-#### [Customization](user-guide/customize-erpnext)
+#### [Customization](/user-guide/customize-erpnext)
 
 ERPnext is very customizable by adding Custom Fields, Custom Scripts, Print Formats etc.
 

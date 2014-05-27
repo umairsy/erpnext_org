@@ -14,7 +14,7 @@ __Figure 1: Sales Order__
 
 Along with the Sales Order entry make the Advance Payment Entry.
 
-Next: [Advance Payment Entry](/apps/erpnext/guide-books/engineer-to-order/advance-payment-entry)
+Next: [Advance Payment Entry](/user-guide/guide-books/engineer-to-order/advance-payment-entry)
 
 
 ---

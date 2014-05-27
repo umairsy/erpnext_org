@@ -25,5 +25,5 @@ To create a Task, go to Project and click on Task.
 
 ### Website
 
-> To understand Website in detail, visit [Website](/user-guide/setting-up-your-website-webshop)
+> To understand Website in detail, visit [Website](/user-guide/website)
 

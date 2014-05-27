@@ -18,4 +18,4 @@
 1. Review Warehouse-wise **Stock Balance Report**.
 
 
-Next: [Setting Up](/apps/erpnext/guide-books/make-to-stock/setting-up)
+Next: [Setting Up](/user-guide/guide-books/make-to-stock/setting-up)

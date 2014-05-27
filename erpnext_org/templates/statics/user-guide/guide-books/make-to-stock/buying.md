@@ -33,7 +33,7 @@ After submitting the Purchase Order, make Purchase Receipt either through the St
 
 The Suppliers who provide raw materials have to be paid. This is done by raising a Purchase Invoice and by making payments through Journal Vouchers.
 
-Next: [Supplier Billing](/apps/erpnext/guide-books/make-to-stock/supplier-billing)
+Next: [Supplier Billing](/user-guide/guide-books/make-to-stock/supplier-billing)
 
 
 

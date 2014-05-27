@@ -2,7 +2,7 @@
 
 <p class="lead">In a make-to-stock system, the products are manufactured and stocked. To begin this order cycle, it is essential to create an Item master, Customers-distributors/retailers, and Suppliers.</p>
 
-An [Item](/user-guide/stock-inventory/item-master) is your company's product or a service. The term Item is applicable to your core products as well as your raw materials. It can be a product or service that you buy/sell from your Customers/Suppliers. ERPNext allows you to manage all sorts of Items like raw-materials, sub-assemblies, finished goods, Item variants and service Items.
+An [Item](/user-guide/stock/item-master) is your company's product or a service. The term Item is applicable to your core products as well as your raw materials. It can be a product or service that you buy/sell from your Customers/Suppliers. ERPNext allows you to manage all sorts of Items like raw-materials, sub-assemblies, finished goods, Item variants and service Items.
 
 > Stock > Item > New Item
 
@@ -60,7 +60,7 @@ __Figure 4: Supplier__
 
 Before making the Price List , make the Bill of Materials based on your design document.
 
-Next: [Bill of Material](/apps/erpnext/guide-books/make-to-stock/bill-of-materials)
+Next: [Bill of Material](/user-guide/guide-books/make-to-stock/bill-of-materials)
 
 ---
 

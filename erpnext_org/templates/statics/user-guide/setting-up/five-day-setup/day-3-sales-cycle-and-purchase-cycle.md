@@ -86,7 +86,7 @@ Sales Order and click on Make Delivery.
 
 ![Delivery Note](assets/erpnext_org/images/erpnext/thirddaysetup-delivery-note.png)
 
-> To understand Delivery Note in detail, visit [Delivery Note](/user-guide/stock-inventory/delivery-note)
+> To understand Delivery Note in detail, visit [Delivery Note](/user-guide/stock/delivery-note)
 
   
 ### Sales Invoice
@@ -150,7 +150,7 @@ purchase order and click on Make Purchase Receipt.
 
 ![Purchase Receipt](assets/erpnext_org/images/erpnext/thirddaysetup-purchase-receipt.png)  
 
-> To understand Purchase Receipt in detail, visit [Purchase Receipt](/user-guide/stock-inventory/purchase-receipt).
+> To understand Purchase Receipt in detail, visit [Purchase Receipt](/user-guide/stock/purchase-receipt).
 
   
 ### Payment (Journal Voucher)

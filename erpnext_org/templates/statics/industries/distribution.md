@@ -1,7 +1,5 @@
 # Distribution
 
-#### Apps: [ERPNext](apps/erpnext) and [Shopping Cart](apps/shopping-cart)
-
 ---
 
 ### Introduction
@@ -11,12 +9,12 @@ Today the manufacturers and suppliers are building direct relationships with lar
 To survive in this era you can:
 
 1. Differentiate yourself by offering reliable and timely service.
-1. Run the business with optimal efficiency by carrying out effective stock management 
+1. Run the business with optimal efficiency by carrying out effective stock management
 1. Follow systematic accounting practices to manage accruals, collections and payments.
 
 ### Quick Overview of how Distributors can use ERPNext.
 
-This is a broad overview of how a distributor company could run its business by using ERPNext. 
+This is a broad overview of how a distributor company could run its business by using ERPNext.
 
 ### Setting Up
 
@@ -30,7 +28,7 @@ Once your system is setup, you can keep track of communication with your Leads o
 
 ![Sales Order](/assets/erpnext_org/images/erpnext/sales-order-list-distributor.png)
 
-### Buying 
+### Buying
 
 Keep track of Items to buy by raising Material Requests, send Purchase Orders to your Suppliers and enter Purchase Receipts when you receive material.
 

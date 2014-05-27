@@ -16,7 +16,7 @@ Shades of Green has retail outlets and they also produce based on orders. For th
 
 This guide gives a step-by-step account of the production process run through ERPNext. Let us take an example of producing a Jute Pen Stand.
 
-[Next: Overview](/apps/erpnext/guide-books/make-to-order/overview)
+[Next: Overview](/user-guide/guide-books/make-to-order/overview)
 
 ---
 

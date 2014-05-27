@@ -17,7 +17,7 @@ For this study, a furniture making company, Supreme Furniture, is used as a case
 To explain the production cycle we will consider an example of a custom-made bed cum wardrobe for a child. Please read the Overview section to get a glimpse of all the steps required to complete an engineer-to-order cycle.
 
 
-Next: [Overview](/apps/erpnext/guide-books/engineer-to-order/overview)
+Next: [Overview](/user-guide/guide-books/engineer-to-order/overview)
 
 ---
 

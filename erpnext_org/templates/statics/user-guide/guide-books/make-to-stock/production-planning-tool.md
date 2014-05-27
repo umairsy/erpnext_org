@@ -55,4 +55,4 @@ Click on the highlighted Material Request number. The click will open into a Mat
 
 After  production planning, it is time to check the Production Order, Transfer Raw Materials and Update Finished Goods. However, before proceeding to manufacture, you are required to complete the Buying process by completing the Purchase Orders and Purchase Receipts. 
 
-Next: [Purchase Order & Purchase Receipt](/apps/erpnext/guide-books/make-to-stock/buying)
+Next: [Purchase Order & Purchase Receipt](/user-guide/guide-books/make-to-stock/buying)

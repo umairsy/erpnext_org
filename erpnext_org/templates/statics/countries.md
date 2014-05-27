@@ -77,4 +77,4 @@
 	</tbody>
 </table>
 
-> [Read Full Length Case Studies Too](apps/erpnext/stories)
+> [Read Full Length Case Studies Too](/stories)

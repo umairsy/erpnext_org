@@ -43,4 +43,4 @@ Since this is a make-to-stock product, the billing will not happen immediately. 
 
 
 
-Next: [Selling and Customer Billing](/apps/erpnext/guide-books/make-to-stock/selling)
+Next: [Selling and Customer Billing](/user-guide/guide-books/make-to-stock/selling)
