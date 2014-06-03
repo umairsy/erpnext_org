@@ -60,11 +60,11 @@ In this example Child Bed Baby is the final product, the Bbed1, Bwardrobe1 and B
 
 ### Warehouse
 
-A Warehouse is a commercial building for storage of goods. Warehouses are used by manufacturers, importers, exporters, wholesalers, transport businesses, customs, etc. They are usually large plain buildings in industrial areas of cities, towns, and villages. They usually have loading docks to load and unload goods from trucks. 
+A Warehouse is a commercial building for storage of goods. Warehouses are used by manufacturers, importers, exporters, wholesalers, transport businesses, customs, etc. They are usually large plain buildings in industrial areas of cities, towns, and villages. They usually have loading docks to load and unload goods from trucks.
 
 > Setup > Warehouse
 
-This is a mandatory field. No Item form will be saved without a Warehouse master. In E-T-O type of company, create one Warehouse for Work-In-Progress and one for Finished Goods. 
+This is a mandatory field. No Item form will be saved without a Warehouse master. In E-T-O type of company, create one Warehouse for Work-In-Progress and one for Finished Goods.
 
 > Note: The Warehouses should be under the __'Stock-Expenses'__ category. Here the goods will be under the __parent group__ 'Stock-Expenses'. Assign these Warehouses to Items accordingly. Select Stock-Expenses under parent group section in the system. You will have to create this new Warehouses in the system. The existing work-in-progress and finished goods Warehouses are by default categorised under __'Assets'__ by the system. For E-T-O transactions, the finished goods will come under the expense category. Thus, create new Warehouses under Stock-Expenses category.
 
@@ -96,5 +96,4 @@ References
 
 1. [Wikipedia: Customer](http://en.wikipedia.org/wiki/Customer)
 1. [The Free Dictionary: Sub-assembly](http://www.thefreedictionary.com/subassembly)
-1. [Business Dictionary: Supplier](http://www.businessdictionary.
-com/definition/supplier.html)
+1. [Business Dictionary: Supplier](http://www.businessdictionary.com/definition/supplier.html)
