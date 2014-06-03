@@ -3,4 +3,3 @@ testimonials
 industries
 countries
 stories
-download-image
