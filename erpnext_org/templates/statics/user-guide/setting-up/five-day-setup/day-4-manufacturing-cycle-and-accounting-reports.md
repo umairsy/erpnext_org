@@ -6,13 +6,12 @@ Complete a manufacturing cycle (if applicable).
 Issue) > Stock Entry (Sales Return)
 
   
-
 ### Bill of Materials
 
 To go to Bill of Materials, Click on Manufacturing. On the Manufacturing page,
 click on Bill of Materials.
 
-#### Figure 1:Create Bill of Material
+__Figure 1: Create Bill of Material__
 
 ![Bill of Materials](assets/erpnext_org/images/erpnext/fourthdaysetup-bom.png)
 
@@ -22,9 +21,9 @@ click on Bill of Materials.
 ### Production Planning Tool  
 
 To go to Production Planning Tool, click on the Manufacturing Icon. On the
-Manufacturing Page, click on Production Planning Tool to go to that page.
+Manufacturing Page, got to Tools and then click on Production Planning Tool 
 
-#### Figure 2: Start Production Planning Tool.
+__Figure 2: Start Production Planning Tool.__
 
 ![Production Planning Page](assets/erpnext_org/images/erpnext/fourthdaysetup-ppt.png)
 
@@ -36,7 +35,7 @@ Manufacturing Page, click on Production Planning Tool to go to that page.
 To go to Production Order click on the Manufacturing Icon. On the
 Manufacturing Page, click on Production Order.
 
-#### Figure 3: Create Production Order
+__Figure 3: Create Production Order__
 
 ![Production Order](assets/erpnext_org/images/erpnext/fourthdaysetup-po.png)
 
@@ -46,7 +45,7 @@ Manufacturing Page, click on Production Order.
 
 To go to Stock Entry, click on the Stock Icon and go to Stock Entry.
 
-#### Figure 4: Make Stock Entry
+__Figure 4: Make Stock Entry__
 
 ![Stock Entry](assets/erpnext_org/images/erpnext/fourthdaysetup-stock.png)
 
@@ -59,7 +58,7 @@ To go to Stock Entry, click on the Stock Icon and go to Stock Entry.
 To go to Delivery Note, click on Stock. On the Stock Page, click on Delivery
 Note.
 
-#### Figure 5: Make Delivery Note
+__Figure 5: Make Delivery Note__
 
 ![Delivery Note](assets/erpnext_org/images/erpnext/fourthdaysetup-delivery-note.png)
 
@@ -69,7 +68,7 @@ Note.
 
  Creating Warehouse is an important step.
 
-#### Figure 6:Create Warehouse
+__Figure 6: Create Warehouse__
 
 ![Warehouse](assets/erpnext_org/images/erpnext/fourthdaysetup-warehouse.png)
 
@@ -84,7 +83,7 @@ Make a few Journal Vouchers. Generate some Accounting Reports.
 To go to a Journal Voucher, click on Accounts. On the Accounts page, click on
 Journal Voucher.
 
-#### Figure 7: Create Journal Voucher
+__Figure 7: Create Journal Voucher__
 
 ![Journal Voucher](assets/erpnext_org/images/erpnext/fourthdaysetup-jv.png)
 
@@ -96,4 +95,3 @@ Some of the major Accounting Reports are General Ledger, Trial Balance,
 Accounts Payable and Accounts Receivables, and Sales and Purchase Register.
 
 > To be able to generate these accounts, visit [Accounting Reports](/user-guide/accounts/accounting-reports)
-

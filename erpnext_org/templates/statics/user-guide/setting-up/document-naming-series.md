@@ -31,6 +31,8 @@ In this form,
   2. Edit the series as required with unique prefixes for each series. Each prefix must be on a new line.
   3. The first prefix will be the default prefix. If you want the user to explicitly select a series instead of the default one, check the “User must always select” check box.
 
-You can also update the starting point for a series by entering the series
+![Document Numbering Series](assets/erpnext_org/images/erpnext/naming-series-1.png)
+
+You can also update the starting point of a series by entering the series
 name and the starting point in the “Update Series” section.
 
