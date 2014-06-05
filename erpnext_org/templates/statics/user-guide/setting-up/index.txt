@@ -10,6 +10,7 @@ letter-head
 pos-setting
 price-lists
 print-headings
+address-template
 setting-up-email
 setting-up-permissions
 setting-up-taxes
