@@ -1,1 +1,1 @@
-erpnext_org
+ERPNext Org
