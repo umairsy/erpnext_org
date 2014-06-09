@@ -20,5 +20,5 @@ Then in the Sales Invoice Custom Script, add this line:
 
 * * *
 
-See: [How to create a custom script](!docs.dev.custom_script.html)
+See: [How to create a custom script](/user-guide/customize-erpnext/custom-scripts)
 
