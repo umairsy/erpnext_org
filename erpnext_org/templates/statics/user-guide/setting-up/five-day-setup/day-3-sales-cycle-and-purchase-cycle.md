@@ -12,105 +12,89 @@ Complete a standard Sales Cycle.
 ### Lead
 
 To begin the sales cycle, go to the Selling Icon. On the selling page, click
-on [Lead.](/user-guide/selling/lead)
+on [Lead.](/apps/erpnext/user-guide/selling/lead)
 
-#### Figure 1: Select Lead
+__Figure 1:Select Lead__
 
-![Lead](assets/erpnext_org/images/erpnext/thirddaysetup-lead.png)
+![Lead](assets/frappe_io/images/erpnext/new-lead.png)
 
 Fill the Lead form.
 
-> To understand Lead in detail, visit [Lead](/user-guide/selling/lead)
+> To understand Lead in detail, visit [Lead](/apps/erpnext/user-guide/selling/lead)
 
   
 ### Opportunity
 
 After completing the Lead form, assume that, this same lead is getting
 converted into an Opportunity. Thus, to create an Opportunity from the
-existing lead, click on Create Opportunity, on the Lead page.
+existing lead, click on the action button and select 'Create Opportunity',on the Lead page.
 
-__Step 1:__ Go to 'Lead List' Page and open the Lead that shows interested
-status.
+__Figure 2: Generate Opportunity__
 
-#### Figure 2: Generate Opportunity
+![Opportunity](assets/frappe_io/images/erpnext/new-opportunity.png)
 
-![Opportunity](assets/erpnext_org/images/erpnext/thirddaysetup-opportunity-1.png)
+ 
+> To understand Opportunity in detail visit [Opportunity](/apps/erpnext/user-guide/selling/opportunity).
 
- __Step 2:__ Generate Opportunity from the selected Lead
-
-#### Figure 3: Opportunity Details
-
-![Opportunity](assets/erpnext_org/images/erpnext/thirddaysetup-opportunity.png)
-
-You can also generate an Opportunity directly from the Selling Page.
-
-> To understand Opportunity in detail visit [Opportunity](/user-guide/selling/opportunity).
-
-  
+ 
 ### Quotation
 
 Imagine that your Opportunity has shown interest and asked for a Quotation. To
 generate a Quotation from the same Opportunity, open the submitted Opportunity
-and click on Create Quotation.
+and click on the action button to select 'Create Quotation'.
 
-#### Figure 4: Create Quotation
+__Figure 4: Create Quotation__
 
-![Quotation](assets/erpnext_org/images/erpnext/thirddaysetup-quotation.png)
+![Quotation](assets/frappe_io/images/erpnext/new-quotation.png)
 
-You can also generate a Quotation directly from the Selling Page.
+You can also generate a Quotation directly from the Selling Page Menu.
 
-> To understand Quotation in detail visit **[Quotation**](/user-guide/selling/quotation)
+> To understand Quotation in detail visit **[Quotation**](/apps/erpnext/user-guide/selling/quotation)
 
 ### Sales Order
 
 Imagine that the Quotation which you sent was accepted by the prospect. You
-are now reequired to send him a Sales Order. To make a sales order from this
-same Quotation, go to that Quotation page and click on Make Sales Order.
+are now required to send him a Sales Order. To make a Sales Order from this
+same Quotation, go to that Quotation page and click on the action button to 'Make Sales Order'.
 
-#### Figure 5: Generate Sales Order
+__Figure 5: Generate Sales Order__
 
-![Sales Order](assets/erpnext_org/images/erpnext/thirddaysetup-sales-order.png)
+![Sales Order](assets/frappe_io/images/erpnext/new-sales-order.png)
 
 You can also generate a Sales Order directly from the Selling Page.
 
-> To understand Sales Order in detail visit [Sales Order.](/user-guide/selling/sales-order)
-
+> To understand Sales Order in detail visit [Sales Order.](/apps/erpnext/user-guide/selling/sales-order)
   
 ### Delivery Note
 
-If your organisation has the practice of sending Delivery Note, this section
-will be helpful. To create a Delivery Note from the a Sales Order, go to that
-Sales Order and click on Make Delivery.
+To create a Delivery Note from the a Sales Order, go to that
+Sales Order and click on the Action button to 'Make Delivery'.
 
-#### Figure 6: Create Delivery Note
+__Figure 6: Create Delivery Note__
 
-![Delivery Note](assets/erpnext_org/images/erpnext/thirddaysetup-delivery-note.png)
+![Delivery Note](assets/frappe_io/images/erpnext/new-delivery-note.png)
 
-> To understand Delivery Note in detail, visit [Delivery Note](/user-guide/stock/delivery-note)
-
+> To understand Delivery Note in detail, visit [Delivery Note](/apps/erpnext/user-guide/stock-inventory/delivery-note)
   
 ### Sales Invoice
 
-Save and Submit your Delivery Note to generate a Sales Invoice. You can also
-generate an Invoice from Sales Order.
+Save and Submit your Delivery Note in order to generate a Sales Invoice.You can generate a Sales Invoice from Sales Order.
 
-#### Figure 7: Make Invoice
+__Figure 7: Make Invoice__
 
-![Sales Invoice](assets/erpnext_org/images/erpnext/thirddaysetup-sales-invoice.png)
+![Sales Invoice](assets/frappe_io/images/erpnext/new-sales-invoice.png)
 
-  
 ### Payment (Journal Voucher)
 
 A Journal Voucher or a payment entry can be generated directly from the Sales
 Invoice.
 
-#### Figure 8: Make Payment
+__Figure 8: Make Payment__
 
-![Payment Entry](assets/erpnext_org/images/erpnext/thirddaysetup-payment-entry.png)
+![Payment Entry](assets/frappe_io/images/erpnext/new-payment.png)
 
-> To understand a Journal Voucher in detail, visit [Journal Voucher](/user-guide/accounts/journal-vouchers).
+> To understand a Journal Voucher in detail, visit [Journal Voucher](/apps/erpnext/user-guide/accounts/journal-vouchers).
 
-  
 ### Purchase Cycle
 
 Complete a standard Purchase Cycle.
@@ -118,49 +102,36 @@ Complete a standard Purchase Cycle.
 > Material Request > Purchase Order > Purchase Receipt > Payment (Journal
 Voucher).
   
-
 ### Material Request
 
 To create a Material Request, go to Stock/Buying and Click on Material
 Request.
 
-#### Figure 9: Create Material Request
+__Figure 9: Create Material Request__
 
-![Material Request](assets/erpnext_org/images/erpnext/thirddaysetup-material-request.png)
+![Material Request](assets/frappe_io/images/erpnext/new-material-request.png)
 
-> To understand Material Request in detail, visit [Material Request](/user-guide/buying/material-request).
+> To understand Material Request in detail, visit [Material Request](/apps/erpnext/user-guide/buying/material-request)
 
 ### Purchase Order
 
 To create a Purchase Order go to Buying and click on Purchase Order
 
-#### Figure 10: Create Purchase Order
+__Figure 10: Create Purchase Order__
 
-![Purchase Order](assets/erpnext_org/images/erpnext/thirddaysetup-purchase-order.png)
+![Purchase Order](assets/frappe_io/images/erpnext/new-purchase-order.png)
 
-> To understand Purchase Order in detail, visit [Purchase Order](/user-guide/buying/purchase-order).
+> To understand Purchase Order in detail, visit [Purchase Order](/apps/erpnext/user-guide/buying/purchase-order).
 
-  
+ 
 ### Purchase Receipt
 
 To create a Purchase Receipt from an existing Purchase Order, open that
-purchase order and click on Make Purchase Receipt.
+Purchase Order and click on the Action button to 'Make Purchase Receipt'.
 
-#### Figure 11: Create Purchase Receipt
+__Figure 11: Create Purchase Receipt__
 
-![Purchase Receipt](assets/erpnext_org/images/erpnext/thirddaysetup-purchase-receipt.png)  
+![Purchase Receipt](assets/frappe_io/images/erpnext/new-purchase-receipt.png)  
 
-> To understand Purchase Receipt in detail, visit [Purchase Receipt](/user-guide/stock/purchase-receipt).
-
+> To understand Purchase Receipt in detail, visit [Purchase Receipt](/apps/erpnext/user-guide/stock-inventory/purchase-receipt).
   
-### Payment (Journal Voucher)
-
-Payments made against Sales Invoices or Purchase Invoices can be made by
-clicking on “Make Payment Entry” button on “Submitted” invoices.
-
-#### Figure 12: Make Payment Entry
-
-![Payment Entry](assets/erpnext_org/images/erpnext/thirddaysetup-payment-entry.png)  
-
-> To understand Payment Entry in detail, visit [Payment Entry.](/user-guide/accounts/making-payments)
-
