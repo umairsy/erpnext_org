@@ -1,5 +1,4 @@
-initial-setup
-wizard-setup
+setup-wizard
 five-day-setup
 company-setup
 data-import-tool

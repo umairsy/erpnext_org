@@ -2,10 +2,9 @@
 
 Attach Company Letterhead and Company Logo.
 
-![Company Letterhead](/assets/erpnext_org/images/erpnext/wizard-step-4.png)
+![Company Letterhead](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-4.png)
 
-
-
+---
 
 ### Letterhead
 
@@ -18,7 +17,7 @@ You may choose to skip this step if your letterhead is not ready.
 To select letterhead later through the setup module, read [Letter-head](/user-guide/setting-up/letter-head)
 
 
-#### To "attach as web-link" 
+#### To "attach as web-link"
 
 If you wish to select the letterhead which is stored as a weblink, you can select that letterhead by clicking on “attach as web-link”.
 
@@ -30,3 +29,5 @@ To attach a logo in the setup wizard click on the box “Attach Logo”. Select 
 
 
 To set-up logo later read [Setting up your website](/user-guide/website)
+
+{next}

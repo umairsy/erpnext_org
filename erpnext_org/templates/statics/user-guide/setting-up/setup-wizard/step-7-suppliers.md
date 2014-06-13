@@ -1,10 +1,11 @@
+
 # Step 8: Supplier Names
 
-Enter your Suppliers' names. 
+Enter a few of your Suppliers' names.
 
-![Supplier Names](/assets/erpnext_org/images/erpnext/wizard-step-8.png)
+![Supplier Names](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-7.png)
 
-You may leave some boxes blank if you have less or no suppliers.
+---
 
 #### Difference between a supplier name and a contact name.
 
@@ -14,3 +15,4 @@ For Example. If A.K Enterprises is a supplier of Jute fabrics and Jute wires and
 
 To understand Suppliers in detail visit [Supplier Master](/user-guide/buying/supplier-master)
 
+{next}

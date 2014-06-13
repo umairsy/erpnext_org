@@ -2,10 +2,9 @@
 
 Enter your Customer names and the contact person from that organisation.
 
+![Customer Names](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-6.png)
 
-![Customer Names](/assets/erpnext_org/images/erpnext/wizard-step-6.png)
-
-
+---
 
 #### Difference between a customer name and a contact name
 
@@ -19,3 +18,4 @@ Contact Name:  Shiv Agarwal
 
 To understand Customer in detail visit [Customer Details](/user-guide/selling/customer-master)
 
+{next}
