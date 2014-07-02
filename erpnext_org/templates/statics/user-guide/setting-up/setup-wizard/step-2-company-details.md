@@ -2,7 +2,7 @@
 
 Enter Company Details like Name, Abbreviation and Financial Year Details.
 
-![Company Details](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-2.png)
+![Company Details](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-3.png)
 
 ---
 
