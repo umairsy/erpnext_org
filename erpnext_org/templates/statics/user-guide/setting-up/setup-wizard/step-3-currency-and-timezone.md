@@ -2,7 +2,7 @@
 
 Set your country name, currency and timezone.
 
-![Currency and Time Zone](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-3.png)
+![Currency and Time Zone](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-2.png)
 
 ---
 
