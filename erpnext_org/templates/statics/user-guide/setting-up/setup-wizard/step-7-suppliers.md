@@ -1,5 +1,4 @@
-
-# Step 8: Supplier Names
+# Step 7: Supplier Names
 
 Enter a few of your Suppliers' names.
 

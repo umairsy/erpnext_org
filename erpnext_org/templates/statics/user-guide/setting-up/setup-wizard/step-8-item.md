@@ -1,6 +1,6 @@
 # Step 8: Item Names
 
-Enter your product names.
+In this final step, please enter the names of the Items you buy or sell.
 
 ![Item Names](/assets/erpnext_org/images/user-guide/setup-wizard/setup-wizard-8.png)
 
@@ -38,5 +38,3 @@ Go to the Setup Page and Click on UOM
 > Setup > UOM > New UOM
 
 Key-in the new UOM name and save . Note that the box that appears below UOM field, which says disallows fraction should be checked only if you wish your UOM quantity to be mentioned in whole numbers. What this means is you will be able to type 5 kgs. But if you wish to type 0.05 Kgs the field will not accept your value. Thus if you have quantities which requires you to mention the amount in fractions, then check the box.
-
-{next}
