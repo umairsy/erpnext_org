@@ -1,3 +1,5 @@
+# Customize ERPNext
+
 ERPNext offers many tools to customize the system.
 
 You simplify the forms by hiding features you don’t need using Disable

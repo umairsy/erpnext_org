@@ -11,7 +11,7 @@ price-lists
 print-headings
 address-template
 setting-up-email
-setting-up-permissions
+permissions
 setting-up-taxes
 sms-setting
 stock-reconciliation-for-non-serialized-item
