@@ -2,7 +2,7 @@ import frappe, json
 
 from erpnext_org.doctype.registrant.registrant import AlreadyRegistered
 
-@frappe.whitelist()
+@frappe.whitelist(allow_guest=True)
 def register(data):
 	data = json.loads(data)
 
