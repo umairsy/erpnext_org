@@ -4,6 +4,15 @@
 
 @media (min-width: 767px) {
 	.navbar .container {
-		padding-right: 100px;
+		padding-right: 50px;
 	}
 }
+
+.navbar .navbar-right {
+	display: none;
+}
+
+.nav li[data-label="Conf 2014"] a {
+	color: #BC4540 !important;
+}
+
