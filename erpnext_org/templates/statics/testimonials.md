@@ -171,4 +171,12 @@ Thanks for your prompt attention on the issue, you guys are great."*
 
 ---
 
+I have tested a few ERP/CRM solutions already. Some to mention are xTuple, Dollibar, openERP, and few others. I like ERPNext much more than the rest! One of the main advantages is the easiness of use of the accounting module and it's integration to warehouses and buying/selling operations. ...
+
+All in all, I am loving ERPNext everyday, and perhaps soon enough I will be recommending it to my sister companies too.
+
+<p class="text-right"><a href="https://groups.google.com/forum/?utm_medium=email&utm_source=footer#!msg/erpnext-user-forum/FcqkDiNz0Gw/8aVEBwF1U8cJ" target="_blank">Samir Ahmed (on forum)</a></p>
+
+---
+
 <a href="/contact">Sign our guest book!</a>
