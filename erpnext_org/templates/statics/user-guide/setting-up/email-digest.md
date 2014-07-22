@@ -6,11 +6,7 @@ information . This report helps in keeping you abreast of all the transactions
 done in ERP. You can select your preferences and modules information as per
 your need.
 
-
-
 To set up Email Digest, go to Set up Module and select Email.
-
-
 
 __Step 1:__ Click on Email Digest.
 
@@ -20,20 +16,11 @@ __Step 3:__ From Accounts section, select the report which you would like to
 receive. For example, check on the box 'Payments Received' to get all the
 payments done during the digest period.
 
-
-
 ![](assets/erpnext_org/images/erpnext/new-email-digest.png)
-
-
-
-
 
 __Step 4:__ From the modules like Buying & Selling, Inventory & Support, Projects & Systems, and User Specific information, select the reports which you would like to receive.
 
 __Step 5:__ Save the Document.
 
-
-
 > Note 1: You can send these Email Digests on a Daily, Weekly or a Monthly
 basis.
-
