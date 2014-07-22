@@ -10,7 +10,7 @@ Registered Participants for the ERPNext Conference.
 		</tr>
 	</thead>
 	<tbody>
-		{%- for p in frappe.get_list("Registrant", fields=["full_name", "company_name"], order_by="full_name asc", ignore_permissions=True) %}
+		{%- for p in frappe.get_list("Registrant", fields=["full_name", "company_name"], order_by="company_name asc", ignore_permissions=True) %}
 		<tr>
 			<td>{{ p.full_name }}</td>
 			<td>{{ p.company_name }}</td>
