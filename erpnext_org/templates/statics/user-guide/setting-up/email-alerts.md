@@ -29,9 +29,9 @@ To setup an Email Alert:
 
 #### Defining the Criteria
 
-![/assets/erpnext_org/images/erpnext/setup/email-alert-1.png]
+![Defining Criteria](/assets/erpnext_org/images/erpnext/setup/email-alert-1.png)
 
 #### Setting the Recipients and Message
 
-![/assets/erpnext_org/images/erpnext/setup/email-alert-1.png]
+![Set Message](/assets/erpnext_org/images/erpnext/setup/email-alert-1.png)
 
