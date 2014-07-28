@@ -47,7 +47,7 @@ To edit / update your print and PDF settings, go to:
 
 #### Example
 
-````
+```
 <h3>{{ doc.select_print_heading or "Invoice" }}</h3>
 <div class="row">
 	<div class="col-md-3 text-right">Customer Name</div>
