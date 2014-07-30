@@ -19,7 +19,7 @@ balance. This improves accuracy of Balance Sheet and Profit and Loss
 statement.
 
 To check accounting entries for a particular stock transaction, please check
-[examples](/user-guide/stock/perpetual-inventory)
+[examples](/user-guide/stock/accounting-of-inventory-stock/perpetual-inventory)
 
 #### **Advantages**
 
@@ -64,6 +64,5 @@ This complete process is called Periodic Inventory.
 
 If you are an existing user using Periodic Inventory and want to use Perpetual
 Inventory, you have to follow some steps to migrate. For details, check
-[Migration From Periodic Inventory](http://erpnext.org/migrate-to-perpetual-
-inventory).
+[Migration From Periodic Inventory](/user-guide/stock/accounting-of-inventory-stock/migrate-to-perpetual-inventory).
 

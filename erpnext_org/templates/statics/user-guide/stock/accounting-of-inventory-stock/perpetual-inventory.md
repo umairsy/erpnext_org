@@ -151,7 +151,7 @@ details of Purchase Receipt:
 
 As stock balance increases through Purchase Receipt, "Store" and "Fixed Asset
 Warehouse" accounts are debited and a temporary account "Stock Receipt But Not
-Billed" account is credited, to maintain double entry accounting system.
+Billed" account is credited, to maintain double entry accounting system. At the same time, negative expense is booked in account "Expense included in Valuation" for the amount added for valuation purpose, to avoid double expense booking.
 
 * * *
 
@@ -165,9 +165,7 @@ Purchase Invoice for the same. The general ledger entries are as follows:
 ![pi<em>general</em>ledger](assets/erpnext_org/images/erpnext/accounting-for-stock-4.png)
 
 Here "Stock Received But Not Billed" account is debited and nullified the
-effect of Purchase Receipt. "Expenses Included In Valuation" account has been
-credited which ensures the valuation expense accounts are not booked (debited)
-twice (in Purchase Invoice and Delivery Note).
+effect of Purchase Receipt.
 
 * * *
 
