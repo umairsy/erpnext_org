@@ -33,5 +33,5 @@ To setup an Email Alert:
 
 #### Setting the Recipients and Message
 
-![Set Message](/assets/erpnext_org/images/erpnext/setup/email-alert-1.png)
+![Set Message](/assets/erpnext_org/images/erpnext/setup/email-alert-2.png)
 
