@@ -2,7 +2,7 @@
 
 <img src="/assets/erpnext_org/images/conf/erpnext-conf-14.png" class="img-responsive">
 
-Mumbai is a big city and there are many hotels in town based on your budget. Budget hotels start at $50 per night and you could live grandly for $100 per night. The conference is close to the center of the city, you could either choose a place close to the airport or in South Mumbai, the "downtown", which if flanked on either sides by beautiful sea promenades.
+Mumbai is a big city and there are many hotels in town based on your budget. Budget hotels start at $50 per night and you could live grandly for $100 per night. The conference is close to the center of the city, you could either choose a place close to the airport or in South Mumbai, the "downtown".
 
 1. We don't have a favorite, but TripAdivisor does a pretty good job. [Check out TripAdvisor for Mumbai Hotels](
 http://www.tripadvisor.in/Hotels-g304554-Mumbai_Bombay_Maharashtra-Hotels.html)
