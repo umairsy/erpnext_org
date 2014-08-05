@@ -19,6 +19,10 @@ In ERPNext all Sales and Purchase transactions, like Sales Invoice, Quotation, S
 1. Enable POS View via (Setup > Customize > Feature Setup)
 2. Create a [POS Setting](/user-guide/setting-up/pos-setting) record
 
+#### Switch to POS View
+
+Open any sales / purchase transaction. Click on the Computer <i class="icon-desktop"></i> Icon.
+
 #### Different sections of the POS
 
   * Update Stock: If this is checked, Stock Ledger Entries will be made when you “Submit” this Sales Invoice thereby eliminating the need for a separate Delivery Note. 
