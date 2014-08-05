@@ -12,22 +12,19 @@ emerge.
 customer. You can create a general Customer called “Walk-in Customer” and make
 all your transactions against this Customer record.
 
+#### Setting Up POS
+
+In ERPNext all Sales and Purchase transactions, like Sales Invoice, Quotation, Sales Order, Purchase Order etc. can be edited via the POS. There two steps to Setup POS:
+
+1. Enable POS View via (Setup > Customize > Feature Setup)
+2. Create a [POS Setting](/user-guide/setting-up/pos-setting) record
+
 #### Different sections of the POS
 
   * Update Stock: If this is checked, Stock Ledger Entries will be made when you “Submit” this Sales Invoice thereby eliminating the need for a separate Delivery Note. 
   * In your Items table, update inventory information like Warehouse (saved as default), Serial Number, or Batch Number if applicable. 
   * Update Payment Details like your Bank / Cash Account, Paid amount etc. 
   * If you are writing off certain amount. For example when you receive extra cash as a result of not having exact denomination of change, check on ‘Write off Outstanding Amount’ and set the Account.
-
-#### Enable POS View
-
-  * Every Sales & Purchase documents has 2 different interfaces, Invoice View and POS View. The current view used by most users is the Invoice View. This view is preferred by non-retailing companies.The POS view is used by retailing companies. For retailers it is very important to provide bill or sales invoice at the point of sale. Their customers cannot wait to receive the bill by post. The customers want an immediate bill for the payment which they make. In such cases, the POS View is preferred.
-
-> Setup > Show/Hide Features
-
-![POS View](assets/erpnext_org/images/erpnext/pos-features-setup.png)
-
-  * Setup [POS Setting](/user-guide/setting-up/pos-setting)
 
 ### Adding an Item
 
