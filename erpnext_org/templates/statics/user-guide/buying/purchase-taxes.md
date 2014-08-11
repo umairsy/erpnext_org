@@ -5,7 +5,7 @@ Similar to your Sales Taxes and Charges Master is the Purchase Taxes and
 Charges Master. This is the tax template that you can use in your Purchase
 Orders and Purchase Invoices.
 
-> Buying > Purchase Taxes and Charges Master > New Purchase Taxes and Charges
+> Buying > Setup > Purchase Taxes and Charges Master > New Purchase Taxes and Charges
 Master
 
 ![Purchase-Taxes](assets/erpnext_org/images/erpnext/purchase-taxes.png)
@@ -15,7 +15,7 @@ Master
 You can specify if the tax / charge is only for valuation (not a part of
 total) or only for total (does not add value to the item) or for both.
 
-If you select a particular tax as your Default tax, the system wil l apply this
+If you select a particular tax as your Default tax, the system will apply this
 tax to all the purchase transactions by default. 
 
 ### Calculation Type
