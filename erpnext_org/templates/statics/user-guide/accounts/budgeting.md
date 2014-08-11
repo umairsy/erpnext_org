@@ -11,8 +11,8 @@ do not get out of hand, at any point, as per your plans.
 You can define it in the Cost Center. If you have seasonal sales you can also
 define a budget distribution that the budget will follow.
 
-In order to allocate budget, go to Accounts and click on Chart of Cost Center.
-Select a Cost Center  and click on Edit.
+In order to allocate budget, go to Accounts > Setup > Chart of Cost Centers and click on Chart of Cost Center.
+Select a Cost Center and click on Open.
 
 #### Step 1: Click on Edit.
 
