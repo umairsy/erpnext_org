@@ -24,7 +24,7 @@ the Bank Account Statement. If there is a match then all the clearance dates
 are updated. If there is a mismatch then check clearance dates and journal
 entries.
 
-To add clearance entries go to the Bank Reconciliation Tool.
+To add clearance entries go to Accounts > Tools > Bank Reconciliation
 
 ### Bank Reconciliation Tool
 

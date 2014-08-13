@@ -10,7 +10,7 @@ house begins work on her order. She gives them Rs 1000/- in cash.
   
 Go to Accounts and open a new Journal Voucher to make the advance entry.
 
-> Accounts > Journal Voucher> New Journal Voucher  
+> Accounts > Documents > Journal Voucher > New Journal Voucher  
 
 Mention the voucher type as cash voucher. This differs for different
 customers. If somebody pays by cheque the voucher type will be Bank Voucher.

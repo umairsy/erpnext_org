@@ -12,7 +12,7 @@ Based on what the suppliers supply, they are classified into different
 categories called Supplier Type. There can be different types of suppliers.
 You can create your own category of Supplier Type.
 
-> Buying > Supplier Type > New Supplier Type
+> Buying > Setup > Supplier Type > New Supplier Type
 
 ![Buying](assets/erpnext_org/images/erpnext/supplier-type.png)
 

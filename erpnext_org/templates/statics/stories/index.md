@@ -63,7 +63,7 @@
 	</div>
 </div>
 
-<p>If you wish to be a part of these interview case stories, mail priya@iwebnotes.com. We would love to call you and schedule an appointment for discussion!</p>
+<p>If you wish to be a part of these interview case stories, mail anand@erpnext.com. We would love to call you and schedule an appointment for discussion!</p>
 
 <style>
 .photo-grid {
