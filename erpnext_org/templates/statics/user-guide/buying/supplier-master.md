@@ -3,7 +3,7 @@ services. They are treated in exactly the same manner as Customers in ERPNext.
 
 You can create a new Supplier via:
 
-> Buying > Supplier > New Supplier
+> Buying > Documents > Supplier > New Supplier
 
 ![Supplier](assets/erpnext_org/images/erpnext/supplier.png)
 
