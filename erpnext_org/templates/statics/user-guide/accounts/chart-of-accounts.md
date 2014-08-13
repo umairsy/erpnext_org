@@ -26,7 +26,7 @@ of a financial statement is given below:
 
 To edit your Chart of Accounts in ERPNext go to:
 
->  Accounts > Chart of Accounts
+>  Accounts > Setup > Chart of Accounts
 
 Chart of Accounts is a tree view of the names of the Accounts (Ledgers and
 Groups) that a Company requires to manage its books of accounts. ERPNext sets
@@ -111,7 +111,7 @@ You can also tag if an account represents a Customer, Supplier or Employee in
 
 To create new Accounts, explore your Chart of Accounts and click on an Account
 group under which you want to create the new Account. On the right side, you
-will see an option to “Edit” or “Add” a new Account.
+will see an option to “Open” or “Add Child” a new Account.
 
 ![Chart of Accounts: New Account](assets/erpnext_org/images/erpnext/chart-of-accounts-2.png)
 
