@@ -4,3 +4,4 @@ styling-the-website
 blog-post
 add-products-to-website
 shopping-cart
+social-logins
