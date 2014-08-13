@@ -11,7 +11,7 @@ Supplier Quotation.
 
 In ERPNext, you can also make a Purchase Order directly by going to:
 
-> Buying > Purchase Order > New Purchase Order ￼
+> Buying > Documents > Purchase Order > New Purchase Order ￼
 
 #### Figure 2: Create Purchase Order
 
