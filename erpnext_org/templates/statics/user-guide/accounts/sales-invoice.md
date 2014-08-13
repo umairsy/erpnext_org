@@ -2,7 +2,7 @@ A Sales Invoice is a bill that you send to your customers, against which the cus
 
 You can create a Sales Invoice directly from
 
-> Accounting > Sales Invoice > New Sales Invoice
+> Accounting > Documents > Sales Invoice > New Sales Invoice
 
 or Click on Make Invoice at the right hand corner of the Delivery Note.
 
