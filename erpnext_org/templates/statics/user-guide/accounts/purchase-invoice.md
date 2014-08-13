@@ -5,7 +5,7 @@ making a Purchase Order.
 
 To make a new Purchase Invoice, go to:
 
-> Accounts > Purchase Invoice > New Purchase Invoice
+> Accounts > Documents > Purchase Invoice > New Purchase Invoice
 
 or click on “Make Purchase Invoice” in Purchase Order or Purchase Receipt.
 
