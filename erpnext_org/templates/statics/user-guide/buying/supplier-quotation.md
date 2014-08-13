@@ -12,7 +12,7 @@ You can make a supplier quotation from a Material Request
 
 You can also make a Supplier Quotation directly from:
 
-> Buying > Supplier Quotation > New Supplier Quotation
+> Buying > Documents > Supplier Quotation > New Supplier Quotation
 
 #### Figure 2: Create Supplier Quotation
 
