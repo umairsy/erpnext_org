@@ -8,7 +8,7 @@ customer gets on goods purchased.
 
 To set credit limit go to Customer- Master
 
-> Selling > Customer > New Customer
+> Selling > Document > Customer 
 
   
 #### Figure 1: Credit Limit
