@@ -22,23 +22,27 @@ This is the tentative agenda:
 		</tr>
 		<tr>
 			<td style="width: 15%" class="small">10.00 am - 10.30 am</td>
-			<td><b>The Story So Far</b><p class="small">A brief introduction to the product and the state of the development and community. And this most frequently asked question, is this really open source?</td>
+			<td><b>Introduction</b><p class="small">A brief introduction to the product and the state of the development and community.</td>
 		</tr>
 		<tr>
 			<td style="width: 15%" class="small">10.30 am - 11.00 am</td>
-			<td><b>ERPNext Roadmap</b><p class="small">A discussion on what should be the priority for the product going forward.</td>
+			<td><b>The Future of Enterprise</b><p class="small">We believe that the enterprise of the future is going to be open, connected and mobile and we will discuss the roadmap of ERPNext in this context.</td>
 		</tr>
 		<tr>
 			<td style="width: 15%" class="small">11.00 am - 12.15 pm</td>
-			<td><b>User Panel</b><p class="small">Panel discussion by active users on their ERPNext experience and feedback, followed by an open discussion.</td>
+			<td><b>User Panel</b><p class="small">Panel discussion by active users on their ERPNext experience and what do they expect from ERPNext in the future, followed by an open discussion.</td>
 		</tr>
 		<tr>
 			<td style="width: 15%" class="small">12.15 pm - 1.00 pm</td>
 			<td><b>LUNCH + NETWORKING</b>
 		</tr>
 		<tr>
-			<td style="width: 15%" class="small">1.00 am - 2.15 pm</td>
-			<td><b>Partner Panel</b><p class="small">Discussion on expectations, feedback and startegies from partners and the community from the product.</p></td>
+			<td style="width: 15%" class="small">1.00 am - 1.30 pm</td>
+			<td><b>The Community</b><p class="small">Discussion on how open source works and how the community can benefit and contribute to an open source project.</p></td>
+		</tr>
+		<tr>
+			<td style="width: 15%" class="small">1.30 am - 2.15 pm</td>
+			<td><b>Solution Showcase</b><p class="small">Showcase of solutions built by ERPNext by various members of the community.</p></td>
 		</tr>
 		<tr>
 			<td style="width: 15%" class="small">2.30 pm - 4.30 pm</td>
