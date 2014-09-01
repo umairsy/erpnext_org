@@ -41,7 +41,7 @@ tool.
 
 To use this, go to:
 
-> Accounts > Bank Reconciliation
+> Accounts > Tools > Bank Reconciliation
 
 Select your “Bank” Account and enter the dates of your statement. Here you
 will get all the “Bank Voucher” type entries. In each of the entry on the
@@ -82,7 +82,7 @@ some schedule that is not linked to your invoices.
 
 In such cases, you can use the Payment to Invoice Matching Tool.
 
-> Accounts > Payment Reconciliation
+> Accounts > Tools > Payment Reconciliation
 
 In this tool, you can select an account (your Customer’s account) and click on
 “Pull Payment Entries” and it will select all un-linked Journal Vouchers and
