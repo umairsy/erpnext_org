@@ -111,7 +111,7 @@ You can also tag if an account represents a Customer, Supplier or Employee in
 
 To create new Accounts, explore your Chart of Accounts and click on an Account
 group under which you want to create the new Account. On the right side, you
-will see an option to “Edit” or “Add” a new Account.
+will see an option to “Open” or “Add Child” a new Account.
 
 ![Chart of Accounts: New Account](assets/erpnext_org/images/erpnext/chart-of-accounts-2.png)
 
