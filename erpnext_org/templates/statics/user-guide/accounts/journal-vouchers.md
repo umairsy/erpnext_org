@@ -5,7 +5,7 @@ multiple Accounts and the sum of debits is equal to the sum of credits.
 
 To create a Journal Voucher go to:
 
-> Accounts > Journal Voucher > New Journal Voucher
+> Accounts > Documents > Journal Voucher > New Journal Voucher
 
 ![Journal Voucher](assets/erpnext_org/images/erpnext/journal-voucher.png)
 
