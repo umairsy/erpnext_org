@@ -50,6 +50,26 @@ to purchase based on all your commitments.
 
 **Sales Persons:** ERPNext allows you to tag multiple Sales Persons who may have worked on this deal. You can also split the amount in targets of different Sales Persons and track how much incentives they earned on this deal.
 
+#### Recurring Sales Orders
+
+If you have a recurring contract with a Customer where you are required to generate a Sales Order on a monthly, quarterly, half-yearly or annual basis, you can check the “Convert To Recurring Order” box. 
+
+Here you can fill in the details like; of how frequently you want to generate an Order in the 'Recurring Type' field, specify the day of of the month on which the Order needs to be generated in the 'Repeat On Day Of Month' field and the date on which the recurring orders should stop in the 'End Date' field.
+
+**Recurring Type:** Here you can update how frequently you want to generate an Order.
+
+**Repeat On Day Of Month:** You can specify the day of of the month on which the Order needs to be generated.
+
+**End Date:** The date on which the recurring orders should stop can be specified here.
+
+On updating the Sales Order, a Recurring ID will be generated which will be same for all recurring orders generated from this particular Sales Order.
+
+ERPNext will automatically create new Order and mail a notification to the email IDs you set in the 'Notification Email Address'field.
+
+#### Figure 3: Recurring Sales Order
+
+![Sales Order](assets/erpnext_org/images/erpnext/sales-order-recurring.png)
+
 #### Next Steps
 
 Once you “Submit” your Sales Order, you can now trigger different aspects of
