@@ -5,7 +5,7 @@ Items (products or services) for a particular reason.
 
 To generate a Material Request manually go to:
 
-> Buying > Material Request > New Material Request
+> Buying > Documents > Material Request > New Material Request
 
 #### Figure 1: Create Material Request 
 ![Material Request](assets/erpnext_org/images/erpnext/material-request-1.png)
