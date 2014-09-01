@@ -33,7 +33,7 @@ Chart of Cost Centers
 
 To setup your Chart of Cost Centers go to:
 
-> Accounts > Chart of Cost Centers
+> Accounts > Setup > Chart of Cost Centers
 
 ![Chart of Cost Center](assets/erpnext_org/images/erpnext/chart-of-cost-centers.png)
 
@@ -54,7 +54,7 @@ do not get out of hand, at any point, as per your plans.
 You can define it in the Cost Center. If you have seasonal sales you can also
 define a budget distribution that the budget will follow.
 
-> Accounts > Budget Distribution > New Budget Distribution
+> Accounts > Setup > Budget Distribution > New Budget Distribution
 
 ![Budget Distribution](assets/erpnext_org/images/erpnext/budgeting.png)
 
