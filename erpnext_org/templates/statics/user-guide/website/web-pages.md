@@ -1,5 +1,8 @@
-Static Content like your Home Page, About Us, Contact Us, Terms pages can be
-created using the Web Page. To create a new Web Page, go to:
+# Web Pages
+
+<p class="lead">Static Content like your Home Page, About Us, Contact Us, Terms pages can be created using the Web Page. </p>
+
+To create a new Web Page, go to:
 
 > Website > Web Page > New Web Page
 
