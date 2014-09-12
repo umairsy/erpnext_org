@@ -15,5 +15,6 @@ chart-of-accounts
 cost-centers-and-budgeting
 fiscal-year
 opening-accounts
+payment-tool
 payment-reconciliation
 point-of-sale-pos-invoice
