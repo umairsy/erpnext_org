@@ -1,8 +1,8 @@
 <img src="/assets/erpnext_org/images/conf/erpnext-conf-14.png" class="img-responsive">
 
-<p class="lead">Register for the 2014 ERPNext Conference on Thursday Sept 25th, 2014 at Mumbai</p>
+<p class="lead">Registration is now closed. See you at the venue!</p>
 
-<form style="max-width: 600px;" id="register">
+<!-- <form style="max-width: 600px;" id="register">
 	<div class="alert alert-info">We have limited seating capacity so register early</div>
 <div class="row">
     <div class="col-md-12">
@@ -100,4 +100,4 @@ frappe.ready(function() {
 		return false;
 	});
 });
-</script>
+</script> -->
