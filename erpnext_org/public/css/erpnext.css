@@ -3,16 +3,16 @@
 }
 
 @media (min-width: 767px) {
-	.navbar .container {
+	.navbar-main .container {
 		padding-right: 50px;
 	}
 }
 
-.navbar .navbar-right {
+.navbar-main .navbar-right {
 	display: none;
 }
 
-.nav li[data-label="Conf 2014"] a {
+.navbar-main .nav li[data-label="Conf 2014"] a {
 	color: #BC4540 !important;
 }
 
