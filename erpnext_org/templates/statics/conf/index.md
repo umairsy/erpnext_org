@@ -8,13 +8,13 @@ The first ever ERPNext conference was a super event and we thank all attendees f
 
 Watch all the conference presentations from the ERPNext Team and the users. There were a bunch of exciting and entertaining presentations that you don't want to miss.
 
-<a href="/conf/videos" class="btn btn-default btn-sm">
+<a href="/conf/videos" class="btn btn-primary btn-sm">
 	<i class="icon-facetime-video text-muted"></i> Watch the Videos
 </a>
 
 ---
 
-### [Conference Report by Vijay Kumar](http://www.bravegnu.org/blog/erpnext-conf-2014.html)
+#### [Conference Report by Vijay Kumar](http://www.bravegnu.org/blog/erpnext-conf-2014.html)
 
 ERPNext is an opensource ERP software written in Python, by a team of developers from Mumbai. The ERPNext team recently organized a conference, and my experiences at the conference, is covered in this article.
 
