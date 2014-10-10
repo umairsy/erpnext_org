@@ -16,7 +16,7 @@ on [Lead.](/apps/erpnext/user-guide/selling/lead)
 
 __Figure 1:Select Lead__
 
-![Lead](assets/erpnext/images/erpnext/new-lead.png)
+![Lead](assets/erpnext_org/images/erpnext/new-lead.png)
 
 Fill the Lead form.
 
@@ -31,7 +31,7 @@ existing lead, click on the action button and select 'Create Opportunity',on the
 
 __Figure 2: Generate Opportunity__
 
-![Opportunity](assets/erpnext/images/erpnext/new-opportunity.png)
+![Opportunity](assets/erpnext_org/images/erpnext/new-opportunity.png)
 
 
 > To understand Opportunity in detail visit [Opportunity](/apps/erpnext/user-guide/selling/opportunity).
@@ -45,7 +45,7 @@ and click on the action button to select 'Create Quotation'.
 
 __Figure 4: Create Quotation__
 
-![Quotation](assets/erpnext/images/erpnext/new-quotation.png)
+![Quotation](assets/erpnext_org/images/erpnext/new-quotation.png)
 
 You can also generate a Quotation directly from the Selling Page Menu.
 
@@ -59,7 +59,7 @@ same Quotation, go to that Quotation page and click on the action button to 'Mak
 
 __Figure 5: Generate Sales Order__
 
-![Sales Order](assets/erpnext/images/erpnext/new-sales-order.png)
+![Sales Order](assets/erpnext_org/images/erpnext/new-sales-order.png)
 
 You can also generate a Sales Order directly from the Selling Page.
 
@@ -72,7 +72,7 @@ Sales Order and click on the Action button to 'Make Delivery'.
 
 __Figure 6: Create Delivery Note__
 
-![Delivery Note](assets/erpnext/images/erpnext/new-delivery-note.png)
+![Delivery Note](assets/erpnext_org/images/erpnext/new-delivery-note.png)
 
 > To understand Delivery Note in detail, visit [Delivery Note](/apps/erpnext/user-guide/stock-inventory/delivery-note)
 
@@ -82,7 +82,7 @@ Save and Submit your Delivery Note in order to generate a Sales Invoice.You can 
 
 __Figure 7: Make Invoice__
 
-![Sales Invoice](assets/erpnext/images/erpnext/new-sales-invoice.png)
+![Sales Invoice](assets/erpnext_org/images/erpnext/new-sales-invoice.png)
 
 ### Payment (Journal Voucher)
 
@@ -91,7 +91,7 @@ Invoice.
 
 __Figure 8: Make Payment__
 
-![Payment Entry](assets/erpnext/images/erpnext/new-payment.png)
+![Payment Entry](assets/erpnext_org/images/erpnext/new-payment.png)
 
 > To understand a Journal Voucher in detail, visit [Journal Voucher](/apps/erpnext/user-guide/accounts/journal-vouchers).
 
@@ -109,7 +109,7 @@ Request.
 
 __Figure 9: Create Material Request__
 
-![Material Request](assets/erpnext/images/erpnext/new-material-request.png)
+![Material Request](assets/erpnext_org/images/erpnext/new-material-request.png)
 
 > To understand Material Request in detail, visit [Material Request](/apps/erpnext/user-guide/buying/material-request)
 
@@ -119,7 +119,7 @@ To create a Purchase Order go to Buying and click on Purchase Order
 
 __Figure 10: Create Purchase Order__
 
-![Purchase Order](assets/erpnext/images/erpnext/new-purchase-order.png)
+![Purchase Order](assets/erpnext_org/images/erpnext/new-purchase-order.png)
 
 > To understand Purchase Order in detail, visit [Purchase Order](/apps/erpnext/user-guide/buying/purchase-order).
 
@@ -131,7 +131,7 @@ Purchase Order and click on the Action button to 'Make Purchase Receipt'.
 
 __Figure 11: Create Purchase Receipt__
 
-![Purchase Receipt](assets/erpnext/images/erpnext/new-purchase-receipt.png)
+![Purchase Receipt](assets/erpnext_org/images/erpnext/new-purchase-receipt.png)
 
 > To understand Purchase Receipt in detail, visit [Purchase Receipt](/apps/erpnext/user-guide/stock-inventory/purchase-receipt).
 
