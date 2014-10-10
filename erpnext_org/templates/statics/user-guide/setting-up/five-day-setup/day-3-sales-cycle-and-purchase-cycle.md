@@ -8,7 +8,7 @@ Complete a standard Sales Cycle.
 > Lead > Opportunity > Quotation > Sales Order > Delivery Note > Sales Invoice
 > Payment (Journal Voucher)
 
-  
+
 ### Lead
 
 To begin the sales cycle, go to the Selling Icon. On the selling page, click
@@ -16,13 +16,13 @@ on [Lead.](/apps/erpnext/user-guide/selling/lead)
 
 __Figure 1:Select Lead__
 
-![Lead](assets/frappe_io/images/erpnext/new-lead.png)
+![Lead](assets/erpnext/images/erpnext/new-lead.png)
 
 Fill the Lead form.
 
 > To understand Lead in detail, visit [Lead](/apps/erpnext/user-guide/selling/lead)
 
-  
+
 ### Opportunity
 
 After completing the Lead form, assume that, this same lead is getting
@@ -31,12 +31,12 @@ existing lead, click on the action button and select 'Create Opportunity',on the
 
 __Figure 2: Generate Opportunity__
 
-![Opportunity](assets/frappe_io/images/erpnext/new-opportunity.png)
+![Opportunity](assets/erpnext/images/erpnext/new-opportunity.png)
 
- 
+
 > To understand Opportunity in detail visit [Opportunity](/apps/erpnext/user-guide/selling/opportunity).
 
- 
+
 ### Quotation
 
 Imagine that your Opportunity has shown interest and asked for a Quotation. To
@@ -45,7 +45,7 @@ and click on the action button to select 'Create Quotation'.
 
 __Figure 4: Create Quotation__
 
-![Quotation](assets/frappe_io/images/erpnext/new-quotation.png)
+![Quotation](assets/erpnext/images/erpnext/new-quotation.png)
 
 You can also generate a Quotation directly from the Selling Page Menu.
 
@@ -59,12 +59,12 @@ same Quotation, go to that Quotation page and click on the action button to 'Mak
 
 __Figure 5: Generate Sales Order__
 
-![Sales Order](assets/frappe_io/images/erpnext/new-sales-order.png)
+![Sales Order](assets/erpnext/images/erpnext/new-sales-order.png)
 
 You can also generate a Sales Order directly from the Selling Page.
 
 > To understand Sales Order in detail visit [Sales Order.](/apps/erpnext/user-guide/selling/sales-order)
-  
+
 ### Delivery Note
 
 To create a Delivery Note from the a Sales Order, go to that
@@ -72,17 +72,17 @@ Sales Order and click on the Action button to 'Make Delivery'.
 
 __Figure 6: Create Delivery Note__
 
-![Delivery Note](assets/frappe_io/images/erpnext/new-delivery-note.png)
+![Delivery Note](assets/erpnext/images/erpnext/new-delivery-note.png)
 
 > To understand Delivery Note in detail, visit [Delivery Note](/apps/erpnext/user-guide/stock-inventory/delivery-note)
-  
+
 ### Sales Invoice
 
 Save and Submit your Delivery Note in order to generate a Sales Invoice.You can generate a Sales Invoice from Sales Order.
 
 __Figure 7: Make Invoice__
 
-![Sales Invoice](assets/frappe_io/images/erpnext/new-sales-invoice.png)
+![Sales Invoice](assets/erpnext/images/erpnext/new-sales-invoice.png)
 
 ### Payment (Journal Voucher)
 
@@ -91,7 +91,7 @@ Invoice.
 
 __Figure 8: Make Payment__
 
-![Payment Entry](assets/frappe_io/images/erpnext/new-payment.png)
+![Payment Entry](assets/erpnext/images/erpnext/new-payment.png)
 
 > To understand a Journal Voucher in detail, visit [Journal Voucher](/apps/erpnext/user-guide/accounts/journal-vouchers).
 
@@ -101,7 +101,7 @@ Complete a standard Purchase Cycle.
 
 > Material Request > Purchase Order > Purchase Receipt > Payment (Journal
 Voucher).
-  
+
 ### Material Request
 
 To create a Material Request, go to Stock/Buying and Click on Material
@@ -109,7 +109,7 @@ Request.
 
 __Figure 9: Create Material Request__
 
-![Material Request](assets/frappe_io/images/erpnext/new-material-request.png)
+![Material Request](assets/erpnext/images/erpnext/new-material-request.png)
 
 > To understand Material Request in detail, visit [Material Request](/apps/erpnext/user-guide/buying/material-request)
 
@@ -119,11 +119,11 @@ To create a Purchase Order go to Buying and click on Purchase Order
 
 __Figure 10: Create Purchase Order__
 
-![Purchase Order](assets/frappe_io/images/erpnext/new-purchase-order.png)
+![Purchase Order](assets/erpnext/images/erpnext/new-purchase-order.png)
 
 > To understand Purchase Order in detail, visit [Purchase Order](/apps/erpnext/user-guide/buying/purchase-order).
 
- 
+
 ### Purchase Receipt
 
 To create a Purchase Receipt from an existing Purchase Order, open that
@@ -131,7 +131,7 @@ Purchase Order and click on the Action button to 'Make Purchase Receipt'.
 
 __Figure 11: Create Purchase Receipt__
 
-![Purchase Receipt](assets/frappe_io/images/erpnext/new-purchase-receipt.png)  
+![Purchase Receipt](assets/erpnext/images/erpnext/new-purchase-receipt.png)
 
 > To understand Purchase Receipt in detail, visit [Purchase Receipt](/apps/erpnext/user-guide/stock-inventory/purchase-receipt).
-  
+
