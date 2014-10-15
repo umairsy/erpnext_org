@@ -26,7 +26,7 @@ Thus you should click on the sub-assembly option if you manufacture all your spa
 
 Raw materials are materials that have not been processed. They are in the form in which they are found in nature without any thing done to them. Raw materials are made into other things.  A sub assembly is a Collection of parts put together as a unit, to be used in the making of a larger assembly or a final or higher item.
 
-### Unit of Meaure (UOM)
+### Unit of Measure (UOM)
 
 A unit of measurement is a property by which any object can be compared as larger or smaller than other objects of the same kind. It is used as a standard for measurement of the same physical quantity. Any other value of the physical quantity can be expressed as a simple multiple of the unit of measurement.
 
