@@ -42,7 +42,7 @@ was added as a function and is now an integral part of ERP systems.
 
 These days the term ERP is used to describe systems that help manage any kind
 of organization like education institutes (Education ERP) or Hospitals
-(Hospital ERP) and so on.
+(Hospital ERP) and so on...
 
 * * *
 
@@ -74,4 +74,3 @@ Small manufacturing companies are usually make-to-order or engineer-to-order
 and can hardly afford to have a high level of standardization. Thus small
 manufacturing businesses should aim for repeatability by innovating processes
 and creating a common platform for products.
-
