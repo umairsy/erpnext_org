@@ -2,6 +2,10 @@
 
 <p class="lead">Case Studies of ERPNext Users from all over the world</p>
 
+<div class="alert alert-info"><a href="/conf/videos#user">
+	<i class="icon-facetime-video"></i> Watch User Presentations from the 2014 ERPNext Conference</a>
+</div>
+
 <div class="photo-grid">
 	<div class="row">
 		<div class="col-xs-4">
