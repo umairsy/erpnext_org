@@ -9,7 +9,7 @@ The first ever ERPNext conference was a super event and we thank all attendees f
 Watch all the conference presentations from the ERPNext Team and the users. There were a bunch of exciting and entertaining presentations that you don't want to miss.
 
 <a href="/conf/videos" class="btn btn-primary btn-sm">
-	<i class="icon-facetime-video text-muted"></i> Watch the Videos
+	<i class="icon-facetime-video"></i> Watch the Videos
 </a>
 
 ---
