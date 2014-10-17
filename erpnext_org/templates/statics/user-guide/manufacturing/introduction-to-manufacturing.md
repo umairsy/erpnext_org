@@ -42,7 +42,7 @@ was added as a function and is now an integral part of ERP systems.
 
 These days the term ERP is used to describe systems that help manage any kind
 of organization like education institutes (Education ERP) or Hospitals
-(Hospital ERP) and so on...
+(Hospital ERP) and so on.
 
 * * *
 
