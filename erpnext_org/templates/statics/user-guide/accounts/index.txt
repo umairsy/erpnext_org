@@ -18,3 +18,4 @@ opening-accounts
 payment-tool
 payment-reconciliation
 point-of-sale-pos-invoice
+item-wise-tax

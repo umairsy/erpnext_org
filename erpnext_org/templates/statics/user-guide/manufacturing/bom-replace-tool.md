@@ -19,7 +19,7 @@ Out of all the items above, CPU is asembled separately. Hence separate BOM will 
 
 If we have more items to be added , or existing items to be edited in the BOM of CPU, then we should create new BOM for it.
 
-1. 350 GB Hard Disk
+1. _350 GB Hard Disk_
 1. Mother Board
 1. Processor
 1. SMTP
@@ -31,6 +31,6 @@ To update new BOM updated in the BOM of finished item, where CPU is selected as 
 
 In this tool, you should select Current BOM, and New BOM. On clicking Replace button, current BOM of CPU will be replaced with New BOM in the BOM of finished Item (Computer).
 
-### Will BOM Replace Tool work for replacing finsihed item in BOM?
+**Will BOM Replace Tool work for replacing finsihed item in BOM?**
 
 No. You should Cancel and Amend current BOM, or create a new BOM for finished item.
