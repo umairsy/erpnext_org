@@ -63,7 +63,7 @@
 <div class="row">
 	<div class="col-sm-3">
 		<a href="/conf/videos/{{ v.name }}">
-			<img src="/assets/erpnext_org/images/conf/videos/{{ v.name }}.jpg">
+			<img src="/assets/erpnext_org/images/conf/videos/{{ v.name }}.jpg" class="no-shadow">
 		</a>
 	</div>
 	<div class="col-sm-9">
