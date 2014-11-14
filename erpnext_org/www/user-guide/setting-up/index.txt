@@ -2,8 +2,9 @@ setup-wizard
 five-day-setup
 company-setup
 data-import-tool
+stock-reconciliation-for-non-serialized-item
+setting-up-taxes
 document-naming-series
-global-default
 adding-users
 letter-head
 pos-setting
@@ -12,7 +13,8 @@ print-headings
 address-template
 setting-up-email
 permissions
-setting-up-taxes
+authorization-rule
+global-default
 sms-setting
 stock-reconciliation-for-non-serialized-item
 territory
