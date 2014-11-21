@@ -8,3 +8,4 @@ sales-order
 sales-person-and-sales-territory
 sales-bill-of-material
 campaign
+item-price

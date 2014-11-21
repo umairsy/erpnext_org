@@ -15,7 +15,7 @@ and save the Custom Field. When you open a new / existing form of the type you
 selected in step 1, you will see it with the Custom Fields.
 
 To understand Custom Fields in detail, visit [DocType-
-Fields](http://erpnext.org/doctype-fields)
+Fields](https://erpnext.com/kb/customize/field-types)
 
 #### Naming
 
