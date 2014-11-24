@@ -2,6 +2,7 @@ item-master
 warehouse
 item-group
 serialized-inventory
+batchwise-inventory
 purchase-receipt
 delivery-note
 stock-entry
