@@ -1,94 +1,43 @@
-A bill of materials [BOM] is a list of the prices of raw materials, sub-
-assemblies, intermediate assemblies, sub-components, parts and the quantities
-of each needed to manufacture or sell an [end
-product](http://en.wikipedia.org/wiki/Product_\(business\)).
-
+Sales BOM stands for Sales Bill-of-Material. It's a master where you can list item which are bundled together and sold as one item. For instance, when laptop is delivered, you need to ensure that charger, mouse and laptop bag are delivered and stock level of these items gets affected. To address this scenario, you can set create Sales BOM for the main item, i.e. laptop, and list deliverable items i.e. laptop + charger + other accessories as child items.
   
+Following are the steps on how to setup Sales BOM master, and how is it used in the sales transactions.
 
-In case of a Sales BOM it is an ingredient list that gets bundled along with
-the main Item / parent Item, when sold to the customer. When a Sales BOM is
-created the other Items which are bundled along with the main product are all
-sold as one Item. These  Items are deducted from the stores when the main Item
-is sold. Thus a Sales BOM helps in  maintaining accurate stock records.
+####Create new Sales BOM
 
-  
+To create new Sales BOM, Go to:
 
-For Example: If you are a Jute Bag Seller and as a promotion drive you wish to
-give Jute Pouch and Jute Pen-Stand free, then you prepare a Sales BOM for the
-Item Jute Bag. The Sales BOM for the Jute Bag will have Jute pouch and Jute
-pen-stand as part of it's Sales-BOM. The production BOM of Jute Bag however,
-will not have Jute Pouch or Jute Pen-stand as part of the BOM.
+Selling >> Setup >> Sales BOM >> New
 
-  
+####Select Parent Item
 
-To make a Sales Bill of Material (BOM) go to
+In Sales BOM master, there are two sections. Sales BOM Item and Package Item.
 
-  
+In Sales BOM item, you will select a Parent Item. The parent item must be a <b>non-stock item</b>. This is non-stock item because there is no stock maintained for it but only the Package Items. If you want to maintain stock for the Parent Item, then you must create a regular Bill of Material (BOM) and package them using a Stock Entry Transactions.
 
-Selling> Sales BOM> New Sales BOM
+In our case, the parent item is PC.
 
-  
+![Sales BOM Item](assets/erpnext_org/images/erpnext/sales_bom_item.png)
 
-__Step 1:__ Select the Parent Item
+####Select Child Items
 
-> Note 1: The Parent Item should be a non-stock Item. This is non-stock item
-because there is no stock maintained for this Item. It is only a Package Item.
+In Package Item section, you will list all the child items for which we maintain stock and is delivered to customer.The actual laptop item, mouse, charger and laptop bag will be listed in the table of Package Item.
 
-> Note 2: If you wish to maintain stock for this Parent Item, then you should
-create a regular Bill of Material (BOM) and package it [repack function] using
-a Stock Entry Transaction.  
+![Sales BOM Packed Items](assets/erpnext_org/images/erpnext/sales_bom_packed_items.png)
 
-> Note 3: The Parent Item should be a Sales Item.
+####Save Sales BOM
 
-  
+Save Sales BOM after enter Sales BOM and Packing Items, with Qty. Once Sales BOM is saved, it will not be editable again.
 
-#### Figure 1: Sales BOM for Jute Bag
+####Sales BOM in the Sales Transactions
 
-![](assets/erpnext_org/images/erpnext/sales-bom-.png)  
+When making Sales transactions like Sales Invoice, Sales Order and Delivery Note, Parent Item will be selected in the main item table.
 
-  
+![Sales BOM Main in Transaction](assets/erpnext_org/images/erpnext/sales_bom_main_in_transaction.png)
 
-__Step 2:__ Add Child Items
+On selection on Parent Item in the main item table, its child items will be fetched in Packing List table of the transaction. If child item is the serialized item, you will be able to specify its Serial Mo. in packing List table itself. On submission of transaction, system will reduce the stock level of child items from warehouse specified in Packing List table.
 
-Enter the Child Items which will be reserved along with the Parent Item.  
+![Sales BOM Child in Transaction](assets/erpnext_org/images/erpnext/sales_bom_child_in_transaction.png)
 
-> Note 1: Child Items will be stock Items because they can be tracked as per
-usage for replenishment of stocks.
-
-  
-
-__Step 3:__ Save  and Submit the Document
-
-  
-**Q. How to use a Sales BOM in transactions like Sales Orders, Delivery Notes, Sales Invoice etc ?**
-
-__Answer:__ When making sales transactions like Sales Invoice, Sales Order or
-Delivery Note,
-
-__Step 1:__ Select Parent Item in the main Item table.  
-
-__Step 2:__ Mention the Warehouse where this Item will be packaged.  
-
-> Note: Since Jute Bag is a non-stock Item you have not specified a warehouse
-for this Item. However, in Sales Order form or other forms, it is mandatory to
-mention the Reserved Warehouse. This Warehouse will serve as a place to
-reserve the offer Items.
-
-__Step 3:__ Save this Document. After saving, the Packing List feature is added to this form. The list will automatically fetch the Child Items which will be packaged/bundled along with the parent Item.
-
-  
-
-#### Figure 2: Packing List with Child Items
-
-![](assets/erpnext_org/images/erpnext/sales-bom-usein-so.png)  
-
-  
-
-> Note 1: On submission of this transaction, the system will reduce/reserve the
-stock level of Child Items from the warehouse which was mentioned in their
-respective Item forms.  
-
-> Note 2: You can define a separate price-list for sales BOM considering all the
-package Items.
-
-  
+<div class="well"><b>Use Sales BOM to Manage Schemes:</b>
+<br>
+This work-around in Sales BOM was discovered when a customer dealing into nutrition product asked for feature to manage schemes like "Buy One Get One Free". To manage the same, he created a non-stock item which was used as Parent Item. In description of item, he entered scheme details with items image indicating the offer. The saleable product was selected in Package Item where qty was two. Hence every time they sold one qty of Parent item under scheme, system deducted two quantities of product from Warehouse.</div>
