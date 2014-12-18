@@ -5,12 +5,12 @@ functions. This diagram does not cover all the features of ERPNext.
 
 
 
-# ![](assets/erpnext_org/images/erpnext/overview.jpg)
+# ![](assets/erpnext_org/images/erpnext/overview.png)
 
 
 
 
-[Full Resolution](/assets/erpnext_org/images/erpnext/overview.jpg)
+[Full Resolution](/assets/erpnext_org/images/erpnext/overview.png)
 
 _Note: Not all of the steps are mandatory. ERPNext allows you to freely skip
 steps if you want to simplify the process._
