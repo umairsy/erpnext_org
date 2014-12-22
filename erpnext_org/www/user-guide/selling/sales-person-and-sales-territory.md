@@ -1,3 +1,5 @@
+Sales Person 
+
 To assign targets to your sales persons belonging to particular territory, go
 to Selling Setup and Click on Territory. When the Territory tree appears
 select the region and click on Edit.
