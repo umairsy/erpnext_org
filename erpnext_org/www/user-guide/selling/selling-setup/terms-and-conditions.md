@@ -2,7 +2,7 @@ Terms and conditions are the general and special arrangements, provisions, requi
 
 To setup Terms and Condition master, go to:
 
-> Selling >> Terms and Condition >> New
+`Selling > Terms and Condition > New`
 
 ![Terms and Condition Data](assets/erpnext_org/images/erpnext/terms-and-condition-data.png)
 

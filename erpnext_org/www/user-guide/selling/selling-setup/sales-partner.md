@@ -6,7 +6,7 @@ You can track Sales Personwise commission in the report under Selling module.
 
 To create a sales partner go to:
 
-> Selling > Setup > Sales Partner
+`Selling > Setup > Sales Partner`
 
 Sales Partners are saved with Sales Partner name provided by user.
 

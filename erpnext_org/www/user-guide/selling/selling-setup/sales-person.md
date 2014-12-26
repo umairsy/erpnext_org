@@ -8,7 +8,7 @@ Following are the steps to setup Sales Person master in the ERPNext.
 
 To add/edit Sales Person, go to:
 
-> Selling > Setup > Sales Person
+`Selling > Setup > Sales Person`
   
 ####Click on Parent to Add new Sales Person
 
@@ -28,4 +28,4 @@ While creating new Sales Person, it will ask for Employee if that Sales Person. 
 
 ####Sales Person in Transactions
 
-You can use this Sales Person in Customer, and sales transactions like Sales Order, Delivery Note and Sales Invoice. Based on Sales Person mentioned in the transaction, you will performance report of Sales Persons. Click [here](https://erpnext.com/kb/accounts/managing-sales-persons-in-sales-transactions) to learn more about how Sales Persons are used in the transactions of Sales Cycle.
+You can use this Sales Person in Customer, and sales transactions like Sales Order, Delivery Note and Sales Invoice. Based on Sales Person mentioned in the transaction, you will performance report of Sales Persons. Click [here](https://erpnext.com/kb/selling/managing-sales-persons-in-sales-transactions) to learn more about how Sales Persons are used in the transactions of Sales Cycle.
