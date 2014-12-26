@@ -1,21 +1,31 @@
-The person who helps in selling your products or services is called a Sales
-Person.
+The person who helps in selling your products or services is called a Sales Person.
 
-Sales Person is maintained in tree struture. It allows you to define manager/parent/group Sales Persons, and list sub-ordinate/child sales persons under it.
+Sales Person master is maintained in [tree struture](https://erpnext.com/kb/setup/managing-tree-structure-masters). This allows you defining the heirarchy within the Sales Team.
 
-To create a sales person go to:
+Following are the steps to setup Sales Person master in the ERPNext.
 
-> Selling > Setup > Sales Person
+####Selling Module
 
-![Sales Person](assets/erpnext_org/images/erpnext/sales-person-1.png)
+To add/edit Sales Person, go to:
+
+`Selling > Setup > Sales Person`
   
+####Click on Parent to Add new Sales Person
 
-Click on "Add Child" to create new sales persons.
+A Sales Person Group called "Sales Team" will be created by default. You can click in it to find option to insert new parent and child Sales Person records. Sales Person master will be saved with the name of Sales Person.
 
-![Sales Person](assets/erpnext_org/images/erpnext/sales-person-2.png)
+![Sales Person Add](assets/erpnext_org/images/erpnext/sales-person-add.png)
 
-#### In Sales Transactions
+In Group Node field, selecting "Yes" will set that Sales Person master a parent. You will be able to create further group and child Sales Persons under it.
 
-Sales transactions (Sales Order, Sales Invoice) can be allocated to Sales Person(s). This allows you tracking sales made by each Sales Person over a period. You can use this as yardstick to determine their appraisal and allowances.
+If Group Node is updated as "No", it will be added as child Sales Person which you will be able to select in the sales transactions.
 
-> In sales transactions, Contribution should amount to 100% combining all the Sales Persons. If only one Sales Person selected in the transaction, set Contribution % as 100.
+![Sales Person New](assets/erpnext_org/images/erpnext/sales-person-new.png)
+
+While creating new Sales Person, it will ask for Employee if that Sales Person. Hence you should ensure that Employee ID is created for each Sales Person, or for each employee for that matter. This approach allows you to link Sales Person with Employee, and ensures no duplicate Sales Person records is created for any sales person.
+
+![Sales Person Employee](assets/erpnext_org/images/erpnext/sales-person-employee.png)
+
+####Sales Person in Transactions
+
+You can use this Sales Person in Customer, and sales transactions like Sales Order, Delivery Note and Sales Invoice. Based on Sales Person mentioned in the transaction, you will performance report of Sales Persons. Click [here](https://erpnext.com/kb/selling/managing-sales-persons-in-sales-transactions) to learn more about how Sales Persons are used in the transactions of Sales Cycle.

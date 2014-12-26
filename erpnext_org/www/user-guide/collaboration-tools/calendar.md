@@ -1,19 +1,61 @@
 The Calendar is a tool where you can create and share Events and also see
 auto-generated events from the system.
 
-### Repeating Events
+You can switch calender view based on Month, Week and Day.
 
-You can set events to repeat on every interval by Checking the "Repeat This
-Event" as shown in the example.
+###Creating Events in Calender
 
-![Set Repeat This Event](assets/erpnext_org/images/erpnext/event-1.png)
+####Creating Event Manually
 
-You can see the repeat events by switching back to the calendar.
+To create event manually, you should first determine Calender View. If Event's start and end time will be within one day, then you should first switch to Day view.
 
-![Event Repeated in Calendar](assets/erpnext_org/images/erpnext/event-2.png)
+This view will 24 hours of a day broken in various slots. You should click on slot for Event Start Time, and drag it down till you reach event end time.
 
-### Reminders
+![Calender Event Manually](assets/erpnext_org/images/erpnext/calender-event-manually.png)
 
-You will also get a daily digest of all upcoming events for the day if any if
-the reminder field is checked.
+Based on the selection of time slot, Start Time and End Time will be updated in the Event master. Then you can set subject for an event, and save it.
 
+####Event Based on Lead
+
+In the Lead form, you will find a field called Next Contact By and Next Contact Date. Event will be auto created for date and person person specified in this field.
+
+![Calender Event Lead](assets/erpnext_org/images/erpnext/calender-event-lead.png)
+
+####Birthday Event
+
+Birthday Event is created based on Date of Birth specified in the Employee master.
+
+###Recurring Events
+
+You can set events as recurring in specific interval by Checking the "Repeat This
+Event".
+
+![Calender Event Recurring](assets/erpnext_org/images/erpnext/calender-event-recurring.png)
+
+###Permission for Event
+
+You can set Event as Private or Public. Private Events will be visible only to you, and if any other user selected in the participants table. Instead of User, you can also assign permission for event based on Role.
+
+Public Event, like Birthday will be visible to all.
+
+![Calender Event Permission](assets/erpnext_org/images/erpnext/calender-event-permission.png)
+
+###Event Reminders
+
+There are two ways you can receive email reminder for an event.
+
+####Enable Reminder in Event
+
+In the Event master, checking "Send an email reminder in the morning" will trigger notifcation email to all the participants for this event.
+
+![Calender Event Notification](assets/erpnext_org/images/erpnext/calender-event-notification.png)
+
+####Create Email Digest
+
+To get email reminders for event, you should set Email Digest for Calender Events.
+
+Email Digest can be set from:
+
+`Setup > Email > Email Digest`
+
+![Calender Email Digest](assets/erpnext_org/images/erpnext/calender-email-digest.png)

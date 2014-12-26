@@ -5,7 +5,7 @@ lead
 opportunity
 quotation
 sales-order
-sales-person-and-sales-territory
+sales-person-target-allocation
 sales-bill-of-material
 campaign
 item-price

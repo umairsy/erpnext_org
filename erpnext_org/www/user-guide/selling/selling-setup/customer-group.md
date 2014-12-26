@@ -5,7 +5,7 @@ ERPNext allows you to create your own Customer Groups.
 
 To create a new Customer Group, go to
 
-> Selling > Setup > Customer Group
+`Selling > Setup > Customer Group`
 
 Customer Group master is maintained in tree strcuture. This allows you to set parent Customer Groups, and Child Customer Groups under those Parent Groups. Setting up this structure shall allow you making intelligent sales report based on Customer Group master.
 
