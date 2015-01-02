@@ -10,7 +10,7 @@ Following are the steps to assign document to another user.
 
 Assign to option is located at the footer of document. Clicking on Assignment Icon on the tool bar will fast-forward you to footer of same document.
 
-![Assigned To Icon](assets/erpnext_org/images/erpnext/assigned-to-icon.png))
+![Assigned To Icon](assets/erpnext_org/images/erpnext/assigned-to-icon.png)
 
 
 ![Assigned To](assets/erpnext_org/images/erpnext/assigned-to.png)
