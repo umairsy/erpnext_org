@@ -1,19 +1,17 @@
-Now ￼that you have completed most of the setup, its time to start moving in!
+Now that you have completed most of the setup, its time to start moving in!
 
 There are two important sets of data you need to enter before you start your
 operations.
 
   * Opening Account balances.
-  * Opening Stock balances.
+  * Opening [Stock balances](https://erpnext.com/user-guide/setting-up/stock-reconciliation-for-non-serialized-item).
 
 To setup your accounts and stock correctly you will need accurate data to work
 with. Make sure you have the data setup for this.
 
 ### Opening Accounts
 
-We usually recommend that you start using accounting in a new financial year,
-but you could start midway too. To setup your accounts, you will need the
-following for the “day” you start using accounting in ERPNext:
+We usually recommend that you start using accounting in a new financial year, but you could start midway too. To setup your accounts, you will need the following for the “day” you start using accounting in ERPNext:
 
 Opening capital accounts - like your shareholder’s (or owner’) capital, loans,
 bank balances on that day. List of outstanding sales and purchase invoices
@@ -38,18 +36,24 @@ invoices are entered. The two accounts which you can create are (example):
 
 #### The Opening Entry
 
-In ERPNext Opening Accounts are setup by submitting a special Journal Entries
-(Journal Voucher).
+In ERPNext Opening Accounts are setup by submitting a special Journal Entries (Journal Voucher).
 
 Note: Make sure to set “Is Opening” as “Yes” in the More Info section.
 
-> Setup > Opening Accounts and Stock > Opening Accounting Entries.
+> Accounts > Journal Voucher > New
 
-Complete Journal Entries on the Debit and Credit side.
+Complete journal entries on the Debit and Credit side.
 
 ![Opening Entry](assets/erpnext_org/images/erpnext/opening-entry-1.png)
 
- To update opening balance is to make Journal Voucher for an individual/group of accounts.
+####Updating Opening Balance for Selected Accounts
+
+Step are as follows:
+
+1. Open new Journal Voucher.
+1. Voucher Type = Journal Entry
+1. Select Account in each row, and enter Debit/Credit balance in them.
+1. Select Temporary Account for balancing purpose. Selection of temporary account will depend based on account type (Asset or Liability). If accounts in which opening balance is to be updated is Asset account, then temporary account selected will be liability account, and vice-versa.
 
 For example, if you want to update balance in three bank accounts, then make Journal Vouchers in this manner.
 
@@ -57,8 +61,6 @@ For example, if you want to update balance in three bank accounts, then make Jou
 
 
 ![Opening Entry](assets/erpnext_org/images/erpnext/opening-entry-2.png)
-
-Temporary Asset and Liability account is used for balancing purpose. When you update opening balance in Liability Account, you can use Temporary Asset Account for balancing.
 
 This way, you can update opening balance in Asset and Liability accounts.
 
@@ -77,19 +79,12 @@ like the one given below:
 
 #### Outstanding Invoices
 
-After your Opening Journal Vouchers are made, you will need to enter each
-Sales Invoice and Purchase Invoice that is yet to be paid.
+After your Opening Journal Vouchers are made, you will need to enter each Sales Invoice and Purchase Invoice that is yet to be paid.
 
-Since you have already booked the income or expense on these invoices in the
-previous period, select the temp opening accounts (**Temporary Opening Asset** and **Temporary Opening Asset**) in the “Income” and
-“Expense” accounts.
+Since you have already booked the income or expense on these invoices in the previous period, select the temp opening accounts (**Temporary Opening Asset** and **Temporary Opening Asset**) in the “Income” and “Expense” accounts.
 
 > Note: Make sure to set each invoice as “Is Opening”!
 
-If you don’t care what items are in that invoice, just make a dummy item entry
-in the Invoice. Item code in the Invoice is not necessary, so it should not be
-such a problem.
+If you don’t care what items are in that invoice, just make a dummy item entry in the Invoice. Item code in the Invoice is not necessary, so it should not be such a problem.
 
-Once all your invoices are entered, your “Temp Opening Assets” will be same as
-“Temp Opening Liabilities” and you can pass another “Is Opening” type of
-Journal Voucher and cancel them to zero!
+Once all your invoices are entered, your “Temp Opening Assets” will be same as “Temp Opening Liabilities” and you can pass another “Is Opening” type of Journal Voucher and cancel them to zero!
